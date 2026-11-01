@@ -1,0 +1,16 @@
+RELEASE_VERSION,COMPONENT,RELEASE_DATE,RELEASE_NOTES
+consumer-app 5.1.0,Consumer App,2026-01-14,New home feed and search filters
+rider-assign v2.0,Rider Assignment,2026-01-28,Batching of nearby orders
+consumer-app 5.2.0,Consumer App,2026-02-20,UPI autopay for One members
+rider-assign v2.1,Rider Assignment,2026-03-18,Improved ETA model
+consumer-app 5.3.0,Consumer App,2026-04-09,Group ordering
+restaurant-app 3.4,Restaurant App,2026-05-05,Prep-time prediction for partners
+rider-assign v2.2,Rider Assignment,2026-05-27,Rain-mode surge incentives
+consumer-app 5.4.0,Consumer App,2026-06-17,Live order tracking redesign
+restaurant-app 3.5,Restaurant App,2026-07-08,Menu availability toggles
+consumer-app 5.5.0,Consumer App,2026-08-12,Festive offers carousel
+cloud-kitchens,Business,2026-09-01,Launch of Cloud Kitchens Hub (60 brands) in HITEC City
+rider-assign v2.3,Rider Assignment,2026-09-08,Expanded assignment radius to 10 km to improve order acceptance
+consumer-app 5.6.0,Consumer App,2026-09-24,Ratings prompt after delivery
+restaurant-app 3.6,Restaurant App,2026-10-06,Packaging checklist
+consumer-app 5.6.1,Consumer App,2026-10-20,Bug fixes

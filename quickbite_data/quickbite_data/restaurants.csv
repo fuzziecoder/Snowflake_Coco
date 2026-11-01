@@ -1,0 +1,1387 @@
+RESTAURANT_ID,RESTAURANT_NAME,CUISINE,ZONE_ID,CLUSTER,LAUNCH_DATE,RATING,AVG_PREP_MINUTES
+1,Chef's Express,South Indian,1,Standard,2024-01-01,3.9,11
+2,Desi Treats,Pizza,1,Standard,2024-01-01,4.0,11
+3,Desi Point,Burgers,1,Standard,2024-01-01,4.2,18
+4,Hungry Express,Biryani,1,Standard,2024-01-01,4.1,13
+5,Royal Dhaba,Pizza,1,Standard,2024-01-01,4.3,13
+6,Hungry Dhaba,Pizza,1,Standard,2024-01-01,4.0,13
+7,Green Kitchen,Chinese,1,Standard,2024-01-01,4.7,17
+8,Spice Bistro,South Indian,1,Standard,2024-01-01,4.3,11
+9,Hungry Cafe,North Indian,1,Standard,2024-01-01,4.0,15
+10,Golden House,Healthy,1,Standard,2024-01-01,4.1,18
+11,Urban Point,Biryani,1,Standard,2024-01-01,4.2,17
+12,Paradise Point,Burgers,1,Standard,2024-01-01,3.9,12
+13,Spice Express,Desserts,1,Standard,2024-01-01,4.3,13
+14,Desi Grill,North Indian,1,Standard,2024-01-01,4.6,11
+15,Punjab Treats,Healthy,1,Standard,2024-01-01,3.8,11
+16,Desi Grill,Biryani,1,Standard,2024-01-01,3.8,19
+17,Urban Treats,Biryani,1,Standard,2024-01-01,4.5,17
+18,Green Grill,Pizza,1,Standard,2024-01-01,4.1,12
+19,Madras Junction,Desserts,1,Standard,2024-01-01,4.0,15
+20,Paradise Dhaba,Healthy,1,Standard,2024-01-01,3.9,13
+21,Hungry Cafe,Burgers,1,Standard,2024-01-01,4.1,19
+22,Punjab House,Pizza,1,Standard,2024-01-01,4.5,14
+23,Royal Cafe,North Indian,1,Standard,2024-01-01,4.3,17
+24,Spice Bistro,Biryani,1,Standard,2024-01-01,4.5,16
+25,Royal Point,Chinese,1,Standard,2024-01-01,4.4,19
+26,Chef's Corner,Chinese,1,Standard,2024-01-01,4.2,19
+27,Royal Corner,Biryani,1,Standard,2024-01-01,3.7,17
+28,Royal Treats,Biryani,1,Standard,2024-01-01,3.7,16
+29,Desi Treats,Biryani,1,Standard,2024-01-01,3.7,16
+30,Chef's House,Pizza,1,Standard,2024-01-01,3.9,16
+31,Madras Corner,Biryani,1,Standard,2024-01-01,3.7,17
+32,Green Kitchen,Pizza,1,Standard,2024-01-01,3.7,14
+33,Madras House,North Indian,1,Standard,2024-01-01,3.7,19
+34,Golden Cafe,Burgers,1,Standard,2024-01-01,4.3,11
+35,Golden Point,Desserts,1,Standard,2024-01-01,3.8,18
+36,Desi House,Desserts,1,Standard,2024-01-01,4.4,19
+37,Green Corner,Pizza,1,Standard,2024-01-01,4.6,16
+38,Bombay Bowl,North Indian,1,Standard,2024-01-01,4.1,11
+39,Bombay Bistro,Pizza,1,Standard,2024-01-01,3.9,12
+40,Dakshin Dhaba,Pizza,1,Standard,2024-01-01,4.0,11
+41,Tandoor Grill,Burgers,1,Standard,2024-01-01,3.7,12
+42,Chef's House,Biryani,1,Standard,2024-01-01,3.7,13
+43,Chef's Treats,Burgers,1,Standard,2024-01-01,4.7,15
+44,Green Point,North Indian,1,Standard,2024-01-01,3.7,17
+45,Green Express,Desserts,1,Standard,2024-01-01,4.5,14
+46,Urban Grill,Biryani,1,Standard,2024-01-01,3.6,19
+47,Little Corner,Desserts,1,Standard,2024-01-01,4.5,14
+48,Spice Corner,North Indian,1,Standard,2024-01-01,4.2,17
+49,Golden Junction,Pizza,1,Standard,2024-01-01,4.6,12
+50,Hungry Kitchen,Biryani,1,Standard,2024-01-01,4.3,19
+51,Golden Treats,Pizza,1,Standard,2024-01-01,4.2,16
+52,Desi Kitchen,North Indian,1,Standard,2024-01-01,4.3,14
+53,Spice Express,Healthy,1,Standard,2024-01-01,4.3,13
+54,Bombay Bistro,Desserts,1,Standard,2024-01-01,4.6,14
+55,Golden Express,Pizza,1,Standard,2024-01-01,4.0,18
+56,Hungry Cafe,Healthy,1,Standard,2024-01-01,4.6,15
+57,Urban Treats,Chinese,1,Standard,2024-01-01,4.1,18
+58,Golden Grill,North Indian,1,Standard,2024-01-01,4.4,11
+59,Royal Corner,Biryani,1,Standard,2024-01-01,4.0,15
+60,Bombay Bowl,Biryani,1,Standard,2024-01-01,3.7,11
+61,Punjab Bowl,Chinese,1,Standard,2024-01-01,4.2,11
+62,Green Grill,Desserts,1,Standard,2024-01-01,4.7,19
+63,Hungry House,Biryani,1,Standard,2024-01-01,3.7,17
+64,Hungry Corner,Burgers,1,Standard,2024-01-01,3.9,14
+65,Little Corner,Biryani,1,Standard,2024-01-01,3.9,15
+66,Urban Dhaba,Burgers,1,Standard,2024-01-01,3.8,11
+67,Green Bistro,Healthy,1,Standard,2024-01-01,4.5,19
+68,Bombay Grill,Biryani,1,Standard,2024-01-01,3.6,16
+69,Urban Kitchen,Biryani,1,Standard,2024-01-01,4.6,19
+70,Punjab Bistro,North Indian,1,Standard,2024-01-01,3.7,15
+71,Hungry Junction,Chinese,1,Standard,2024-01-01,4.3,14
+72,Royal Bistro,Biryani,1,Standard,2024-01-01,4.1,12
+73,Madras Point,Desserts,1,Standard,2024-01-01,3.9,12
+74,Paradise Cafe,Burgers,1,Standard,2024-01-01,3.7,19
+75,Punjab Bistro,Chinese,1,Standard,2024-01-01,4.4,18
+76,Royal House,Burgers,1,Standard,2024-01-01,4.5,12
+77,Dakshin Corner,Healthy,1,Standard,2024-01-01,3.9,14
+78,Golden Dhaba,Biryani,1,Standard,2024-01-01,4.2,16
+79,Little Bowl,Burgers,1,Standard,2024-01-01,4.3,18
+80,Golden Junction,Desserts,1,Standard,2024-01-01,3.8,18
+81,Punjab Bowl,Chinese,1,Standard,2024-01-01,4.6,16
+82,Punjab Point,Desserts,1,Standard,2024-01-01,4.0,13
+83,Bombay Point,Healthy,1,Standard,2024-01-01,4.3,13
+84,Madras Bistro,Desserts,1,Standard,2024-01-01,4.5,16
+85,Punjab Cafe,Pizza,1,Standard,2024-01-01,3.9,19
+86,Tandoor Bistro,Pizza,1,Standard,2024-01-01,4.7,19
+87,Madras Corner,South Indian,1,Standard,2024-01-01,4.2,17
+88,Spice Grill,Desserts,1,Standard,2024-01-01,4.4,17
+89,Royal Treats,Burgers,1,Standard,2024-01-01,4.4,18
+90,Green Bistro,Chinese,1,Standard,2024-01-01,4.3,11
+91,Spice Corner,Biryani,2,Standard,2024-01-01,4.2,15
+92,Golden Point,Biryani,2,Standard,2024-01-01,4.3,17
+93,Punjab Cafe,Healthy,2,Standard,2024-01-01,4.0,11
+94,Desi House,Chinese,2,Standard,2024-01-01,4.3,15
+95,Spice Express,Burgers,2,Standard,2024-01-01,4.5,19
+96,Chef's Treats,Pizza,2,Standard,2024-01-01,4.0,19
+97,Hungry Kitchen,Chinese,2,Standard,2024-01-01,4.7,13
+98,Tandoor Cafe,Burgers,2,Standard,2024-01-01,3.8,13
+99,Royal Point,Pizza,2,Standard,2024-01-01,4.1,19
+100,Royal Kitchen,Biryani,2,Standard,2024-01-01,3.9,17
+101,Urban Grill,North Indian,2,Standard,2024-01-01,4.4,14
+102,Desi Treats,Healthy,2,Standard,2024-01-01,4.0,16
+103,Chef's Cafe,Burgers,2,Standard,2024-01-01,3.9,16
+104,Spice Treats,Pizza,2,Standard,2024-01-01,4.1,11
+105,Dakshin Bistro,Healthy,2,Standard,2024-01-01,3.9,18
+106,Golden Corner,Chinese,2,Standard,2024-01-01,4.2,17
+107,Tandoor Point,Pizza,2,Standard,2024-01-01,3.7,17
+108,Bombay Bowl,South Indian,2,Standard,2024-01-01,4.3,19
+109,Paradise Point,Pizza,2,Standard,2024-01-01,3.7,19
+110,Paradise Bistro,Burgers,2,Standard,2024-01-01,4.3,16
+111,Royal Grill,Biryani,2,Standard,2024-01-01,4.5,13
+112,Punjab Grill,Pizza,2,Standard,2024-01-01,4.2,17
+113,Little Point,South Indian,2,Standard,2024-01-01,4.7,11
+114,Tandoor Express,Healthy,2,Standard,2024-01-01,4.1,19
+115,Hungry Express,Biryani,2,Standard,2024-01-01,4.5,15
+116,Urban Grill,Healthy,2,Standard,2024-01-01,4.3,16
+117,Desi Dhaba,Burgers,2,Standard,2024-01-01,4.2,19
+118,Urban Point,Chinese,2,Standard,2024-01-01,4.2,13
+119,Urban Treats,Biryani,2,Standard,2024-01-01,4.2,11
+120,Dakshin Corner,Pizza,2,Standard,2024-01-01,4.6,13
+121,Madras Grill,Biryani,2,Standard,2024-01-01,4.4,13
+122,Urban Junction,Healthy,2,Standard,2024-01-01,4.4,13
+123,Green Treats,Biryani,2,Standard,2024-01-01,4.3,19
+124,Madras Express,North Indian,2,Standard,2024-01-01,4.2,19
+125,Paradise Treats,South Indian,2,Standard,2024-01-01,4.4,13
+126,Urban Bowl,Burgers,2,Standard,2024-01-01,4.2,18
+127,Spice House,North Indian,2,Standard,2024-01-01,4.0,15
+128,Urban Grill,North Indian,3,Standard,2024-01-01,3.8,12
+129,Desi Dhaba,Desserts,3,Standard,2024-01-01,3.8,13
+130,Tandoor Treats,Chinese,3,Standard,2024-01-01,4.7,14
+131,Urban Grill,Burgers,3,Standard,2024-01-01,4.7,17
+132,Paradise Bistro,Desserts,3,Standard,2024-01-01,4.4,15
+133,Little Grill,Healthy,3,Standard,2024-01-01,4.3,12
+134,Bombay Express,Chinese,3,Standard,2024-01-01,3.7,12
+135,Bombay Treats,Burgers,3,Standard,2024-01-01,4.3,13
+136,Urban Express,South Indian,3,Standard,2024-01-01,4.3,14
+137,Spice Grill,Desserts,3,Standard,2024-01-01,4.7,15
+138,Bombay Bistro,Pizza,3,Standard,2024-01-01,4.0,18
+139,Little Corner,Healthy,3,Standard,2024-01-01,4.5,18
+140,Royal Junction,Biryani,3,Standard,2024-01-01,4.2,16
+141,Green Point,Healthy,3,Standard,2024-01-01,4.3,11
+142,Dakshin Corner,Burgers,3,Standard,2024-01-01,4.7,12
+143,Paradise Bistro,Healthy,3,Standard,2024-01-01,4.2,19
+144,Punjab Corner,South Indian,3,Standard,2024-01-01,3.9,12
+145,Royal Grill,North Indian,3,Standard,2024-01-01,4.6,12
+146,Dakshin Treats,Desserts,3,Standard,2024-01-01,4.5,18
+147,Hungry Kitchen,Healthy,3,Standard,2024-01-01,3.8,16
+148,Spice House,Biryani,3,Standard,2024-01-01,4.0,13
+149,Spice Kitchen,Pizza,3,Standard,2024-01-01,4.4,12
+150,Bombay Bistro,South Indian,3,Standard,2024-01-01,4.4,15
+151,Tandoor Bistro,Healthy,3,Standard,2024-01-01,4.4,18
+152,Green Express,Chinese,3,Standard,2024-01-01,4.2,16
+153,Spice Cafe,Desserts,3,Standard,2024-01-01,3.9,13
+154,Tandoor House,Healthy,3,Standard,2024-01-01,4.2,17
+155,Hungry Kitchen,Healthy,3,Standard,2024-01-01,4.1,14
+156,Bombay Kitchen,Desserts,3,Standard,2024-01-01,4.2,13
+157,Tandoor Grill,Pizza,3,Standard,2024-01-01,3.9,17
+158,Golden Point,North Indian,3,Standard,2024-01-01,4.6,13
+159,Chef's Bistro,South Indian,3,Standard,2024-01-01,4.5,12
+160,Paradise Dhaba,Biryani,3,Standard,2024-01-01,4.5,12
+161,Green Kitchen,Desserts,3,Standard,2024-01-01,3.9,11
+162,Dakshin Junction,Pizza,3,Standard,2024-01-01,4.2,16
+163,Urban Kitchen,Pizza,4,Standard,2024-01-01,3.8,19
+164,Little Cafe,South Indian,4,Standard,2024-01-01,4.2,11
+165,Little Bowl,Burgers,4,Standard,2024-01-01,4.1,19
+166,Little Express,North Indian,4,Standard,2024-01-01,4.3,18
+167,Madras House,North Indian,4,Standard,2024-01-01,3.8,12
+168,Tandoor Kitchen,Pizza,4,Standard,2024-01-01,3.9,11
+169,Little Corner,Healthy,4,Standard,2024-01-01,3.7,19
+170,Hungry Treats,Biryani,4,Standard,2024-01-01,4.2,19
+171,Paradise Kitchen,Chinese,4,Standard,2024-01-01,4.2,14
+172,Paradise House,Desserts,4,Standard,2024-01-01,3.9,11
+173,Green Grill,Desserts,4,Standard,2024-01-01,3.7,13
+174,Tandoor Junction,Biryani,4,Standard,2024-01-01,4.2,19
+175,Green Corner,Burgers,4,Standard,2024-01-01,4.7,13
+176,Royal Kitchen,Healthy,4,Standard,2024-01-01,4.0,13
+177,Punjab Cafe,Chinese,4,Standard,2024-01-01,4.6,13
+178,Urban Cafe,Burgers,4,Standard,2024-01-01,4.2,13
+179,Punjab Dhaba,North Indian,4,Standard,2024-01-01,3.7,18
+180,Desi Point,Desserts,4,Standard,2024-01-01,4.0,16
+181,Bombay Treats,South Indian,4,Standard,2024-01-01,4.3,15
+182,Royal Dhaba,Chinese,4,Standard,2024-01-01,4.6,15
+183,Madras Bowl,Biryani,4,Standard,2024-01-01,4.2,11
+184,Little Bowl,Burgers,4,Standard,2024-01-01,3.8,18
+185,Tandoor Treats,South Indian,4,Standard,2024-01-01,4.1,13
+186,Royal House,Healthy,4,Standard,2024-01-01,3.7,19
+187,Urban Dhaba,Pizza,4,Standard,2024-01-01,4.6,11
+188,Chef's Corner,Healthy,4,Standard,2024-01-01,4.6,17
+189,Paradise Point,North Indian,4,Standard,2024-01-01,3.7,14
+190,Dakshin House,Healthy,5,Standard,2024-01-01,4.5,15
+191,Dakshin Cafe,Healthy,5,Standard,2024-01-01,4.4,15
+192,Paradise Bowl,Pizza,5,Standard,2024-01-01,4.3,18
+193,Punjab Bistro,Pizza,5,Standard,2024-01-01,4.5,12
+194,Tandoor Express,North Indian,5,Standard,2024-01-01,4.7,15
+195,Tandoor Bowl,Desserts,5,Standard,2024-01-01,4.3,13
+196,Tandoor Dhaba,South Indian,5,Standard,2024-01-01,3.7,16
+197,Tandoor Point,Desserts,5,Standard,2024-01-01,4.2,19
+198,Bombay Corner,Desserts,5,Standard,2024-01-01,4.0,18
+199,Urban Grill,Chinese,5,Standard,2024-01-01,3.9,14
+200,Urban Dhaba,Pizza,5,Standard,2024-01-01,4.3,13
+201,Green Treats,Healthy,5,Standard,2024-01-01,4.1,11
+202,Bombay Kitchen,Pizza,5,Standard,2024-01-01,4.5,19
+203,Hungry Corner,Burgers,5,Standard,2024-01-01,4.5,14
+204,Dakshin Treats,Pizza,5,Standard,2024-01-01,4.5,19
+205,Punjab Bistro,Burgers,5,Standard,2024-01-01,4.4,19
+206,Spice Dhaba,Chinese,5,Standard,2024-01-01,4.2,17
+207,Punjab Express,Burgers,5,Standard,2024-01-01,4.2,17
+208,Punjab Bowl,Burgers,5,Standard,2024-01-01,4.6,11
+209,Tandoor Express,South Indian,5,Standard,2024-01-01,3.8,17
+210,Punjab Junction,Healthy,5,Standard,2024-01-01,4.1,14
+211,Spice Grill,Burgers,5,Standard,2024-01-01,3.7,12
+212,Tandoor Dhaba,South Indian,5,Standard,2024-01-01,3.7,16
+213,Green Express,South Indian,5,Standard,2024-01-01,4.0,11
+214,Little House,South Indian,5,Standard,2024-01-01,4.4,13
+215,Desi Dhaba,Healthy,5,Standard,2024-01-01,3.7,12
+216,Punjab Grill,Chinese,5,Standard,2024-01-01,4.5,16
+217,Royal House,Biryani,5,Standard,2024-01-01,4.0,13
+218,Paradise House,Healthy,5,Standard,2024-01-01,4.6,19
+219,Dakshin Junction,Desserts,5,Standard,2024-01-01,3.7,18
+220,Little House,Desserts,5,Standard,2024-01-01,4.1,11
+221,Paradise Bistro,Healthy,5,Standard,2024-01-01,4.4,11
+222,Urban Dhaba,Desserts,5,Standard,2024-01-01,4.3,15
+223,Green House,Chinese,5,Standard,2024-01-01,4.0,13
+224,Punjab Junction,North Indian,5,Standard,2024-01-01,4.3,15
+225,Dakshin House,Desserts,6,Standard,2024-01-01,4.4,16
+226,Green Treats,South Indian,6,Standard,2024-01-01,3.7,15
+227,Green Point,Burgers,6,Standard,2024-01-01,4.6,15
+228,Bombay Point,Chinese,6,Standard,2024-01-01,4.2,19
+229,Madras Kitchen,Desserts,6,Standard,2024-01-01,4.2,15
+230,Madras Dhaba,Healthy,6,Standard,2024-01-01,4.4,15
+231,Bombay Bowl,Chinese,6,Standard,2024-01-01,4.2,13
+232,Punjab Grill,Burgers,6,Standard,2024-01-01,3.9,15
+233,Royal Point,Pizza,6,Standard,2024-01-01,3.9,14
+234,Bombay Bistro,Burgers,6,Standard,2024-01-01,4.4,12
+235,Green Treats,Burgers,6,Standard,2024-01-01,4.1,18
+236,Desi House,Desserts,6,Standard,2024-01-01,4.7,17
+237,Chef's Bistro,Healthy,6,Standard,2024-01-01,4.2,16
+238,Dakshin Bistro,North Indian,6,Standard,2024-01-01,4.0,16
+239,Dakshin Cafe,Pizza,6,Standard,2024-01-01,3.6,17
+240,Spice Point,Healthy,6,Standard,2024-01-01,3.6,15
+241,Royal Bistro,North Indian,6,Standard,2024-01-01,4.1,17
+242,Little Bowl,Pizza,6,Standard,2024-01-01,3.9,14
+243,Spice House,Chinese,6,Standard,2024-01-01,3.9,11
+244,Little Point,Burgers,6,Standard,2024-01-01,4.2,12
+245,Madras Junction,North Indian,6,Standard,2024-01-01,3.7,17
+246,Royal Bowl,Chinese,6,Standard,2024-01-01,4.7,12
+247,Chef's Bowl,South Indian,6,Standard,2024-01-01,4.4,11
+248,Paradise Grill,Biryani,6,Standard,2024-01-01,4.4,15
+249,Little Bistro,Desserts,6,Standard,2024-01-01,4.2,18
+250,Little Kitchen,Chinese,6,Standard,2024-01-01,4.1,13
+251,Desi Grill,Pizza,6,Standard,2024-01-01,3.8,17
+252,Royal Cafe,North Indian,6,Standard,2024-01-01,4.7,17
+253,Paradise Treats,Healthy,6,Standard,2024-01-01,4.3,11
+254,Dakshin House,Pizza,6,Standard,2024-01-01,4.5,17
+255,Madras Bowl,Chinese,6,Standard,2024-01-01,4.1,13
+256,Golden Junction,Chinese,6,Standard,2024-01-01,4.4,15
+257,Little House,North Indian,6,Standard,2024-01-01,3.8,17
+258,Green House,Burgers,7,Standard,2024-01-01,4.5,11
+259,Chef's Treats,Burgers,7,Standard,2024-01-01,3.7,19
+260,Tandoor Bistro,Chinese,7,Standard,2024-01-01,3.9,15
+261,Punjab Grill,South Indian,7,Standard,2024-01-01,3.7,14
+262,Hungry Bistro,Healthy,7,Standard,2024-01-01,4.5,13
+263,Urban Express,Biryani,7,Standard,2024-01-01,4.2,12
+264,Madras Point,Desserts,7,Standard,2024-01-01,4.3,16
+265,Tandoor Junction,Chinese,7,Standard,2024-01-01,4.6,18
+266,Little Treats,South Indian,7,Standard,2024-01-01,4.3,15
+267,Hungry Bistro,North Indian,7,Standard,2024-01-01,4.5,14
+268,Paradise Treats,Pizza,7,Standard,2024-01-01,4.6,15
+269,Madras Cafe,Biryani,7,Standard,2024-01-01,4.0,12
+270,Madras House,Chinese,7,Standard,2024-01-01,3.9,17
+271,Paradise Bistro,South Indian,7,Standard,2024-01-01,3.9,13
+272,Little House,North Indian,7,Standard,2024-01-01,3.9,17
+273,Little Express,South Indian,7,Standard,2024-01-01,4.3,19
+274,Spice Bistro,North Indian,7,Standard,2024-01-01,3.8,16
+275,Madras Cafe,South Indian,7,Standard,2024-01-01,4.7,17
+276,Hungry Bowl,Burgers,7,Standard,2024-01-01,4.3,11
+277,Punjab Treats,Burgers,7,Standard,2024-01-01,4.2,18
+278,Bombay Dhaba,Healthy,7,Standard,2024-01-01,3.7,16
+279,Tandoor Grill,Burgers,7,Standard,2024-01-01,4.6,19
+280,Dakshin Dhaba,Burgers,7,Standard,2024-01-01,4.2,12
+281,Green Cafe,North Indian,7,Standard,2024-01-01,4.6,11
+282,Paradise Junction,North Indian,7,Standard,2024-01-01,4.6,18
+283,Royal Bowl,Desserts,7,Standard,2024-01-01,4.6,16
+284,Madras House,South Indian,7,Standard,2024-01-01,3.9,14
+285,Tandoor Cafe,Pizza,8,Standard,2024-01-01,4.7,11
+286,Spice Bowl,South Indian,8,Standard,2024-01-01,4.7,18
+287,Urban Dhaba,Burgers,8,Standard,2024-01-01,4.6,13
+288,Bombay Point,Chinese,8,Standard,2024-01-01,3.9,15
+289,Madras Dhaba,Desserts,8,Standard,2024-01-01,4.5,19
+290,Tandoor House,Desserts,8,Standard,2024-01-01,4.0,16
+291,Chef's Grill,Chinese,8,Standard,2024-01-01,4.4,18
+292,Dakshin Bistro,Pizza,8,Standard,2024-01-01,4.7,14
+293,Hungry House,Burgers,8,Standard,2024-01-01,4.5,15
+294,Royal Cafe,Biryani,8,Standard,2024-01-01,3.8,14
+295,Chef's Dhaba,Pizza,8,Standard,2024-01-01,4.1,18
+296,Madras Bowl,North Indian,8,Standard,2024-01-01,4.6,15
+297,Desi Kitchen,South Indian,8,Standard,2024-01-01,3.9,18
+298,Bombay House,Burgers,8,Standard,2024-01-01,4.4,19
+299,Bombay Bistro,Desserts,8,Standard,2024-01-01,4.1,12
+300,Royal Bowl,Pizza,8,Standard,2024-01-01,3.7,13
+301,Golden Point,Chinese,8,Standard,2024-01-01,4.6,14
+302,Chef's Treats,Pizza,8,Standard,2024-01-01,3.9,15
+303,Chef's Corner,Biryani,8,Standard,2024-01-01,4.5,15
+304,Hungry Bowl,Healthy,8,Standard,2024-01-01,4.7,12
+305,Madras Corner,Biryani,8,Standard,2024-01-01,4.0,13
+306,Royal Point,Desserts,8,Standard,2024-01-01,4.0,19
+307,Bombay Grill,North Indian,8,Standard,2024-01-01,3.6,11
+308,Bombay Kitchen,North Indian,8,Standard,2024-01-01,4.3,13
+309,Spice Cafe,North Indian,8,Standard,2024-01-01,3.7,11
+310,Paradise Kitchen,South Indian,8,Standard,2024-01-01,3.8,13
+311,Tandoor Express,Healthy,8,Standard,2024-01-01,3.6,18
+312,Tandoor Kitchen,North Indian,8,Standard,2024-01-01,3.9,19
+313,Paradise Bowl,Healthy,8,Standard,2024-01-01,4.2,12
+314,Bombay Dhaba,Desserts,8,Standard,2024-01-01,4.5,12
+315,Green Express,Pizza,8,Standard,2024-01-01,4.0,12
+316,Spice Express,Biryani,9,Standard,2024-01-01,4.2,11
+317,Punjab Corner,North Indian,9,Standard,2024-01-01,3.6,14
+318,Spice Corner,North Indian,9,Standard,2024-01-01,3.8,14
+319,Royal Dhaba,Healthy,9,Standard,2024-01-01,4.1,16
+320,Urban Point,Burgers,9,Standard,2024-01-01,3.9,11
+321,Little Junction,South Indian,9,Standard,2024-01-01,4.1,11
+322,Dakshin Junction,South Indian,9,Standard,2024-01-01,4.5,18
+323,Spice Bistro,Healthy,9,Standard,2024-01-01,4.5,13
+324,Tandoor Point,Biryani,9,Standard,2024-01-01,4.5,12
+325,Tandoor Cafe,Chinese,9,Standard,2024-01-01,3.7,13
+326,Desi House,Healthy,9,Standard,2024-01-01,4.2,12
+327,Hungry House,Burgers,9,Standard,2024-01-01,3.7,12
+328,Paradise Kitchen,Pizza,9,Standard,2024-01-01,4.3,18
+329,Golden Corner,Burgers,9,Standard,2024-01-01,4.2,16
+330,Green Dhaba,North Indian,9,Standard,2024-01-01,4.7,14
+331,Royal Dhaba,Burgers,9,Standard,2024-01-01,4.1,19
+332,Little Bistro,Biryani,9,Standard,2024-01-01,4.2,14
+333,Hungry Bowl,Pizza,9,Standard,2024-01-01,3.7,15
+334,Paradise Treats,South Indian,9,Standard,2024-01-01,4.7,13
+335,Madras Express,Desserts,9,Standard,2024-01-01,4.5,17
+336,Dakshin Junction,Desserts,9,Standard,2024-01-01,4.2,13
+337,Desi Point,North Indian,9,Standard,2024-01-01,4.5,13
+338,Hungry Bowl,North Indian,9,Standard,2024-01-01,4.6,13
+339,Urban Treats,Pizza,9,Standard,2024-01-01,3.8,15
+340,Green Junction,Biryani,9,Standard,2024-01-01,4.2,18
+341,Spice Dhaba,Burgers,10,Standard,2024-01-01,3.7,12
+342,Spice Corner,Healthy,10,Standard,2024-01-01,3.7,12
+343,Little Grill,Healthy,10,Standard,2024-01-01,3.7,12
+344,Tandoor Bowl,Chinese,10,Standard,2024-01-01,4.3,16
+345,Green Point,Biryani,10,Standard,2024-01-01,4.0,17
+346,Desi Cafe,Chinese,10,Standard,2024-01-01,4.2,13
+347,Green Bowl,Healthy,10,Standard,2024-01-01,3.6,19
+348,Royal Bowl,Biryani,10,Standard,2024-01-01,4.5,17
+349,Urban House,South Indian,10,Standard,2024-01-01,3.8,16
+350,Spice Cafe,Desserts,10,Standard,2024-01-01,3.6,13
+351,Tandoor Grill,Biryani,10,Standard,2024-01-01,4.0,17
+352,Tandoor Corner,Burgers,10,Standard,2024-01-01,3.8,18
+353,Dakshin Dhaba,Pizza,10,Standard,2024-01-01,4.6,16
+354,Royal Express,North Indian,10,Standard,2024-01-01,4.6,16
+355,Spice Bowl,South Indian,10,Standard,2024-01-01,4.4,11
+356,Tandoor Bowl,Desserts,10,Standard,2024-01-01,4.1,12
+357,Royal Treats,Healthy,10,Standard,2024-01-01,3.7,15
+358,Tandoor Treats,Chinese,10,Standard,2024-01-01,4.0,17
+359,Hungry Bistro,Burgers,10,Standard,2024-01-01,3.6,19
+360,Hungry Kitchen,Desserts,10,Standard,2024-01-01,4.4,16
+361,Tandoor House,Pizza,10,Standard,2024-01-01,4.0,11
+362,Little Treats,Chinese,10,Standard,2024-01-01,4.6,13
+363,Golden Kitchen,Biryani,10,Standard,2024-01-01,3.8,16
+364,Spice Bistro,Biryani,10,Standard,2024-01-01,4.7,12
+365,Madras Grill,South Indian,10,Standard,2024-01-01,4.6,15
+366,Madras House,Chinese,11,Standard,2024-01-01,4.2,19
+367,Dakshin Express,Biryani,11,Standard,2024-01-01,4.7,17
+368,Punjab Express,South Indian,11,Standard,2024-01-01,4.0,13
+369,Little Bowl,South Indian,11,Standard,2024-01-01,3.7,13
+370,Bombay Grill,Chinese,11,Standard,2024-01-01,4.6,17
+371,Paradise Grill,Chinese,11,Standard,2024-01-01,4.1,17
+372,Madras Bowl,North Indian,11,Standard,2024-01-01,3.6,15
+373,Madras Dhaba,Biryani,11,Standard,2024-01-01,4.2,16
+374,Desi Junction,Pizza,11,Standard,2024-01-01,3.9,18
+375,Madras House,Desserts,11,Standard,2024-01-01,4.3,13
+376,Madras Corner,Healthy,11,Standard,2024-01-01,4.4,18
+377,Green Kitchen,Desserts,11,Standard,2024-01-01,3.9,18
+378,Tandoor Point,South Indian,11,Standard,2024-01-01,3.9,11
+379,Golden Kitchen,Burgers,11,Standard,2024-01-01,3.9,17
+380,Paradise Kitchen,Burgers,11,Standard,2024-01-01,4.2,11
+381,Green Corner,Burgers,11,Standard,2024-01-01,4.4,14
+382,Hungry Cafe,Chinese,11,Standard,2024-01-01,4.6,13
+383,Hungry Cafe,Desserts,11,Standard,2024-01-01,4.1,11
+384,Madras Corner,Desserts,11,Standard,2024-01-01,3.9,15
+385,Little Express,North Indian,11,Standard,2024-01-01,4.1,11
+386,Green Grill,Burgers,11,Standard,2024-01-01,3.9,13
+387,Green Treats,Desserts,11,Standard,2024-01-01,4.6,18
+388,Green Grill,Burgers,11,Standard,2024-01-01,4.3,17
+389,Royal Dhaba,Burgers,11,Standard,2024-01-01,4.4,19
+390,Paradise Grill,North Indian,11,Standard,2024-01-01,4.2,11
+391,Chef's Dhaba,Chinese,11,Standard,2024-01-01,3.8,13
+392,Chef's Treats,North Indian,11,Standard,2024-01-01,4.2,18
+393,Chef's Bistro,Desserts,11,Standard,2024-01-01,3.9,18
+394,Spice Kitchen,South Indian,12,Standard,2024-01-01,4.5,19
+395,Green Treats,Healthy,12,Standard,2024-01-01,3.6,13
+396,Urban Kitchen,Biryani,12,Standard,2024-01-01,4.5,11
+397,Desi Dhaba,South Indian,12,Standard,2024-01-01,4.7,13
+398,Madras Junction,Pizza,12,Standard,2024-01-01,4.7,19
+399,Spice Bowl,Biryani,12,Standard,2024-01-01,4.0,13
+400,Punjab Corner,Pizza,12,Standard,2024-01-01,3.8,18
+401,Madras Dhaba,Healthy,12,Standard,2024-01-01,4.6,17
+402,Tandoor Junction,Pizza,12,Standard,2024-01-01,4.3,12
+403,Bombay Cafe,Desserts,12,Standard,2024-01-01,4.6,18
+404,Royal Corner,Biryani,12,Standard,2024-01-01,3.7,16
+405,Punjab Corner,Chinese,12,Standard,2024-01-01,3.9,17
+406,Urban Treats,Healthy,12,Standard,2024-01-01,4.0,13
+407,Hungry Point,South Indian,12,Standard,2024-01-01,4.2,14
+408,Urban House,Chinese,12,Standard,2024-01-01,3.7,17
+409,Hungry Dhaba,Desserts,12,Standard,2024-01-01,4.6,13
+410,Paradise House,Biryani,12,Standard,2024-01-01,3.8,14
+411,Urban Point,South Indian,12,Standard,2024-01-01,3.9,18
+412,Golden Treats,South Indian,12,Standard,2024-01-01,3.6,13
+413,Urban Point,Burgers,12,Standard,2024-01-01,3.8,18
+414,Urban Bistro,Pizza,12,Standard,2024-01-01,4.0,16
+415,Chef's Grill,Healthy,12,Standard,2024-01-01,3.8,12
+416,Bombay Dhaba,Healthy,12,Standard,2024-01-01,3.8,16
+417,Green Kitchen,Biryani,12,Standard,2024-01-01,4.4,15
+418,Spice House,Burgers,12,Standard,2024-01-01,3.7,16
+419,Green Kitchen,Pizza,12,Standard,2024-01-01,4.5,17
+420,Punjab Treats,Burgers,12,Standard,2024-01-01,4.2,16
+421,Paradise Treats,North Indian,13,Standard,2024-01-01,3.9,19
+422,Royal Corner,Burgers,13,Standard,2024-01-01,4.2,11
+423,Tandoor Express,South Indian,13,Standard,2024-01-01,3.7,16
+424,Spice Corner,Desserts,13,Standard,2024-01-01,4.4,11
+425,Little Cafe,Chinese,13,Standard,2024-01-01,4.2,12
+426,Punjab Treats,Burgers,13,Standard,2024-01-01,4.5,17
+427,Little Kitchen,South Indian,13,Standard,2024-01-01,3.7,12
+428,Bombay Corner,Burgers,13,Standard,2024-01-01,4.6,15
+429,Royal Bistro,Desserts,13,Standard,2024-01-01,3.7,16
+430,Golden Bowl,Healthy,13,Standard,2024-01-01,4.3,13
+431,Spice Treats,South Indian,13,Standard,2024-01-01,3.8,15
+432,Punjab Treats,North Indian,13,Standard,2024-01-01,4.3,13
+433,Hungry Treats,South Indian,13,Standard,2024-01-01,4.2,11
+434,Chef's Point,Pizza,13,Standard,2024-01-01,4.0,12
+435,Urban Express,Pizza,13,Standard,2024-01-01,4.1,14
+436,Desi Dhaba,Chinese,13,Standard,2024-01-01,4.3,18
+437,Punjab House,Burgers,13,Standard,2024-01-01,4.1,16
+438,Urban Corner,Pizza,13,Standard,2024-01-01,4.1,15
+439,Golden Point,North Indian,13,Standard,2024-01-01,3.9,19
+440,Bombay Dhaba,North Indian,13,Standard,2024-01-01,4.0,19
+441,Little Dhaba,Burgers,13,Standard,2024-01-01,4.4,13
+442,Urban Grill,Burgers,13,Standard,2024-01-01,3.9,17
+443,Hungry Dhaba,South Indian,13,Standard,2024-01-01,4.4,15
+444,Desi Bistro,North Indian,13,Standard,2024-01-01,4.0,14
+445,Paradise Bistro,Burgers,13,Standard,2024-01-01,3.6,15
+446,Green Treats,Biryani,13,Standard,2024-01-01,4.0,19
+447,Desi Express,Pizza,14,Standard,2024-01-01,3.9,18
+448,Little Corner,South Indian,14,Standard,2024-01-01,3.8,11
+449,Madras Cafe,Healthy,14,Standard,2024-01-01,4.1,17
+450,Desi Grill,Chinese,14,Standard,2024-01-01,4.2,17
+451,Hungry Kitchen,South Indian,14,Standard,2024-01-01,3.9,15
+452,Hungry Dhaba,South Indian,14,Standard,2024-01-01,4.5,14
+453,Spice Dhaba,Pizza,14,Standard,2024-01-01,4.3,16
+454,Tandoor House,Desserts,14,Standard,2024-01-01,4.7,14
+455,Madras Bowl,Burgers,14,Standard,2024-01-01,4.0,12
+456,Bombay Cafe,North Indian,14,Standard,2024-01-01,4.6,16
+457,Paradise Grill,Desserts,14,Standard,2024-01-01,3.7,18
+458,Bombay Corner,Biryani,14,Standard,2024-01-01,4.4,17
+459,Royal Junction,Pizza,14,Standard,2024-01-01,4.6,11
+460,Hungry Corner,Biryani,14,Standard,2024-01-01,4.2,13
+461,Punjab Grill,Burgers,14,Standard,2024-01-01,3.6,13
+462,Little Treats,Burgers,14,Standard,2024-01-01,4.1,18
+463,Punjab Cafe,South Indian,14,Standard,2024-01-01,4.0,19
+464,Hungry Corner,Healthy,14,Standard,2024-01-01,4.2,17
+465,Paradise Point,South Indian,14,Standard,2024-01-01,4.1,16
+466,Paradise Bistro,Burgers,14,Standard,2024-01-01,4.1,11
+467,Golden Corner,Burgers,14,Standard,2024-01-01,4.3,14
+468,Paradise Kitchen,Desserts,14,Standard,2024-01-01,4.2,18
+469,Tandoor House,Burgers,14,Standard,2024-01-01,4.0,13
+470,Dakshin Corner,Pizza,14,Standard,2024-01-01,4.6,18
+471,Paradise Cafe,South Indian,14,Standard,2024-01-01,3.9,14
+472,Desi Corner,Desserts,14,Standard,2024-01-01,3.6,14
+473,Spice House,Biryani,14,Standard,2024-01-01,4.2,18
+474,Punjab Junction,Biryani,14,Standard,2024-01-01,4.3,14
+475,Golden Kitchen,Healthy,15,Standard,2024-01-01,3.9,11
+476,Punjab Cafe,Healthy,15,Standard,2024-01-01,4.1,16
+477,Golden Cafe,Pizza,15,Standard,2024-01-01,4.2,11
+478,Punjab Dhaba,South Indian,15,Standard,2024-01-01,4.2,13
+479,Bombay Bowl,Chinese,15,Standard,2024-01-01,4.7,14
+480,Paradise House,Biryani,15,Standard,2024-01-01,4.6,15
+481,Dakshin House,Burgers,15,Standard,2024-01-01,4.7,15
+482,Golden House,Chinese,15,Standard,2024-01-01,3.7,14
+483,Desi Grill,Healthy,15,Standard,2024-01-01,4.1,17
+484,Paradise Bowl,Desserts,15,Standard,2024-01-01,4.7,18
+485,Madras Cafe,South Indian,15,Standard,2024-01-01,3.8,14
+486,Urban Corner,South Indian,15,Standard,2024-01-01,4.0,19
+487,Paradise House,Healthy,15,Standard,2024-01-01,3.8,18
+488,Madras Kitchen,Pizza,15,Standard,2024-01-01,3.9,11
+489,Madras Junction,Desserts,15,Standard,2024-01-01,4.2,15
+490,Punjab House,Chinese,15,Standard,2024-01-01,4.7,14
+491,Golden Point,Chinese,15,Standard,2024-01-01,3.7,19
+492,Little Grill,Chinese,15,Standard,2024-01-01,3.7,15
+493,Dakshin Cafe,Burgers,15,Standard,2024-01-01,3.9,15
+494,Dakshin Bistro,South Indian,15,Standard,2024-01-01,4.6,17
+495,Urban Treats,Desserts,15,Standard,2024-01-01,4.1,13
+496,Bombay Junction,Burgers,15,Standard,2024-01-01,3.6,15
+497,Green Bistro,Biryani,15,Standard,2024-01-01,4.6,12
+498,Urban Dhaba,Desserts,15,Standard,2024-01-01,4.6,16
+499,Golden Bowl,Chinese,15,Standard,2024-01-01,4.3,11
+500,Paradise House,Biryani,15,Standard,2024-01-01,3.7,16
+501,Hungry Dhaba,Biryani,15,Standard,2024-01-01,4.0,15
+502,Spice Bistro,Desserts,15,Standard,2024-01-01,4.0,19
+503,Spice Kitchen,Chinese,15,Standard,2024-01-01,4.7,11
+504,Royal Corner,Healthy,15,Standard,2024-01-01,4.5,16
+505,Golden Cafe,Burgers,15,Standard,2024-01-01,4.4,13
+506,Punjab Corner,Chinese,15,Standard,2024-01-01,4.2,19
+507,Spice Junction,Chinese,15,Standard,2024-01-01,3.8,16
+508,Chef's Kitchen,Pizza,15,Standard,2024-01-01,4.2,19
+509,Tandoor Express,Biryani,15,Standard,2024-01-01,4.2,15
+510,Dakshin Bistro,North Indian,16,Standard,2024-01-01,4.5,11
+511,Royal Point,Desserts,16,Standard,2024-01-01,3.7,18
+512,Golden Express,Burgers,16,Standard,2024-01-01,4.6,15
+513,Dakshin Corner,Chinese,16,Standard,2024-01-01,3.9,15
+514,Desi Bistro,Pizza,16,Standard,2024-01-01,3.7,16
+515,Chef's Treats,Burgers,16,Standard,2024-01-01,3.8,13
+516,Paradise Kitchen,South Indian,16,Standard,2024-01-01,4.4,14
+517,Royal Treats,Desserts,16,Standard,2024-01-01,3.8,19
+518,Tandoor Kitchen,Healthy,16,Standard,2024-01-01,4.3,18
+519,Urban Dhaba,Burgers,16,Standard,2024-01-01,4.2,16
+520,Hungry Dhaba,Healthy,16,Standard,2024-01-01,3.7,12
+521,Dakshin Bowl,Chinese,16,Standard,2024-01-01,4.5,18
+522,Royal Junction,Desserts,16,Standard,2024-01-01,4.0,19
+523,Dakshin Bistro,Biryani,16,Standard,2024-01-01,4.1,14
+524,Spice Bowl,Healthy,16,Standard,2024-01-01,4.4,14
+525,Hungry Kitchen,North Indian,16,Standard,2024-01-01,4.2,19
+526,Urban Cafe,Desserts,16,Standard,2024-01-01,4.1,13
+527,Madras Corner,Desserts,16,Standard,2024-01-01,4.0,18
+528,Tandoor Dhaba,Pizza,16,Standard,2024-01-01,4.3,11
+529,Tandoor House,Pizza,16,Standard,2024-01-01,3.7,12
+530,Urban Dhaba,Healthy,16,Standard,2024-01-01,3.7,13
+531,Golden House,Biryani,16,Standard,2024-01-01,4.7,13
+532,Green Treats,South Indian,16,Standard,2024-01-01,4.0,17
+533,Bombay Bistro,Healthy,16,Standard,2024-01-01,4.3,13
+534,Spice Bistro,Desserts,16,Standard,2024-01-01,4.2,12
+535,Hungry Point,Burgers,16,Standard,2024-01-01,4.4,19
+536,Punjab Junction,Chinese,16,Standard,2024-01-01,4.2,11
+537,Paradise Kitchen,Healthy,16,Standard,2024-01-01,4.3,14
+538,Paradise Bistro,South Indian,16,Standard,2024-01-01,4.1,17
+539,Royal Dhaba,North Indian,16,Standard,2024-01-01,4.3,18
+540,Madras Corner,Desserts,16,Standard,2024-01-01,4.6,18
+541,Green Grill,Healthy,17,Standard,2024-01-01,4.2,12
+542,Bombay Cafe,Healthy,17,Standard,2024-01-01,4.4,11
+543,Little Corner,Chinese,17,Standard,2024-01-01,4.6,14
+544,Golden Bowl,Desserts,17,Standard,2024-01-01,4.2,17
+545,Urban Dhaba,North Indian,17,Standard,2024-01-01,4.3,14
+546,Golden Corner,Healthy,17,Standard,2024-01-01,4.4,15
+547,Golden Corner,South Indian,17,Standard,2024-01-01,4.1,14
+548,Desi Express,Chinese,17,Standard,2024-01-01,4.1,14
+549,Desi Dhaba,Desserts,17,Standard,2024-01-01,4.4,14
+550,Punjab Corner,North Indian,17,Standard,2024-01-01,3.9,12
+551,Royal Grill,South Indian,17,Standard,2024-01-01,4.5,14
+552,Royal Cafe,Chinese,17,Standard,2024-01-01,4.2,11
+553,Madras Kitchen,Burgers,17,Standard,2024-01-01,4.3,15
+554,Golden Express,South Indian,17,Standard,2024-01-01,3.8,17
+555,Spice Cafe,Healthy,17,Standard,2024-01-01,4.2,15
+556,Bombay Treats,Pizza,17,Standard,2024-01-01,3.8,12
+557,Tandoor Dhaba,Healthy,17,Standard,2024-01-01,4.4,16
+558,Dakshin Junction,South Indian,17,Standard,2024-01-01,4.6,18
+559,Golden Bistro,Biryani,17,Standard,2024-01-01,4.3,17
+560,Royal Cafe,Burgers,17,Standard,2024-01-01,3.9,18
+561,Bombay Dhaba,Biryani,17,Standard,2024-01-01,4.5,11
+562,Urban Kitchen,South Indian,17,Standard,2024-01-01,4.3,13
+563,Green Junction,Desserts,17,Standard,2024-01-01,4.1,18
+564,Green Cafe,Chinese,17,Standard,2024-01-01,4.3,17
+565,Chef's Cafe,Desserts,17,Standard,2024-01-01,3.7,17
+566,Dakshin Express,Healthy,17,Standard,2024-01-01,3.7,15
+567,Chef's Grill,South Indian,17,Standard,2024-01-01,4.3,11
+568,Dakshin Bowl,Chinese,17,Standard,2024-01-01,4.6,18
+569,Madras Point,Healthy,17,Standard,2024-01-01,4.0,13
+570,Madras Bistro,Biryani,17,Standard,2024-01-01,4.4,11
+571,Madras Cafe,North Indian,17,Standard,2024-01-01,3.7,19
+572,Desi Bowl,Pizza,17,Standard,2024-01-01,4.6,11
+573,Green Point,Biryani,18,Standard,2024-01-01,4.0,16
+574,Madras Express,North Indian,18,Standard,2024-01-01,4.3,18
+575,Madras Kitchen,Pizza,18,Standard,2024-01-01,4.7,16
+576,Royal Point,Biryani,18,Standard,2024-01-01,4.1,18
+577,Tandoor Grill,Desserts,18,Standard,2024-01-01,4.6,16
+578,Golden House,Chinese,18,Standard,2024-01-01,4.4,11
+579,Paradise Kitchen,Pizza,18,Standard,2024-01-01,4.2,18
+580,Punjab House,Desserts,18,Standard,2024-01-01,4.4,18
+581,Spice Corner,Burgers,18,Standard,2024-01-01,4.7,18
+582,Green Junction,South Indian,18,Standard,2024-01-01,4.7,13
+583,Bombay Junction,Desserts,18,Standard,2024-01-01,3.9,13
+584,Desi Cafe,South Indian,18,Standard,2024-01-01,4.5,11
+585,Hungry Grill,Healthy,18,Standard,2024-01-01,4.4,15
+586,Bombay Corner,Burgers,18,Standard,2024-01-01,4.2,13
+587,Bombay Bistro,Pizza,18,Standard,2024-01-01,3.7,13
+588,Little Kitchen,Burgers,18,Standard,2024-01-01,4.3,14
+589,Royal Point,Burgers,18,Standard,2024-01-01,4.1,11
+590,Tandoor Corner,Pizza,18,Standard,2024-01-01,3.8,12
+591,Urban House,Healthy,18,Standard,2024-01-01,4.0,19
+592,Chef's Point,Chinese,18,Standard,2024-01-01,4.5,17
+593,Dakshin Bowl,South Indian,18,Standard,2024-01-01,4.7,13
+594,Little Kitchen,South Indian,18,Standard,2024-01-01,3.9,12
+595,Tandoor Bistro,North Indian,18,Standard,2024-01-01,4.5,15
+596,Hungry Cafe,Healthy,18,Standard,2024-01-01,4.0,11
+597,Golden Kitchen,North Indian,18,Standard,2024-01-01,3.8,18
+598,Little Bistro,Healthy,18,Standard,2024-01-01,4.1,19
+599,Hungry House,Healthy,18,Standard,2024-01-01,3.6,12
+600,Hungry House,North Indian,18,Standard,2024-01-01,3.6,14
+601,Spice Point,Biryani,18,Standard,2024-01-01,4.6,14
+602,Green Bistro,North Indian,18,Standard,2024-01-01,4.5,18
+603,Royal Junction,Healthy,18,Standard,2024-01-01,4.6,18
+604,Urban Grill,Desserts,18,Standard,2024-01-01,4.4,13
+605,Bombay Corner,North Indian,18,Standard,2024-01-01,4.0,14
+606,Little House,Chinese,18,Standard,2024-01-01,4.0,19
+607,Madras Corner,South Indian,18,Standard,2024-01-01,4.6,14
+608,Green Kitchen,Healthy,18,Standard,2024-01-01,3.6,12
+609,Royal Junction,Biryani,18,Standard,2024-01-01,4.6,11
+610,Green Dhaba,Desserts,18,Standard,2024-01-01,3.7,11
+611,Golden Point,Burgers,18,Standard,2024-01-01,4.3,14
+612,Hungry Junction,Biryani,18,Standard,2024-01-01,4.0,11
+613,Royal Corner,North Indian,19,Standard,2024-01-01,4.1,18
+614,Royal Junction,Desserts,19,Standard,2024-01-01,4.7,17
+615,Bombay Junction,Burgers,19,Standard,2024-01-01,3.9,12
+616,Desi Treats,Chinese,19,Standard,2024-01-01,4.2,12
+617,Bombay Bowl,Pizza,19,Standard,2024-01-01,4.0,13
+618,Tandoor Junction,North Indian,19,Standard,2024-01-01,4.5,16
+619,Desi Junction,Chinese,19,Standard,2024-01-01,4.1,17
+620,Tandoor Point,Chinese,19,Standard,2024-01-01,3.8,16
+621,Spice Kitchen,South Indian,19,Standard,2024-01-01,3.8,15
+622,Madras Corner,Biryani,19,Standard,2024-01-01,3.8,12
+623,Tandoor House,Pizza,19,Standard,2024-01-01,4.5,16
+624,Bombay Cafe,Healthy,19,Standard,2024-01-01,3.8,11
+625,Little Bowl,Chinese,19,Standard,2024-01-01,4.5,18
+626,Royal Point,Desserts,19,Standard,2024-01-01,4.5,16
+627,Spice Point,Chinese,19,Standard,2024-01-01,4.5,16
+628,Royal Treats,Biryani,19,Standard,2024-01-01,3.7,12
+629,Green Grill,South Indian,19,Standard,2024-01-01,4.1,13
+630,Madras Kitchen,Burgers,19,Standard,2024-01-01,3.7,16
+631,Paradise Junction,Desserts,19,Standard,2024-01-01,3.7,17
+632,Royal Junction,South Indian,19,Standard,2024-01-01,4.3,12
+633,Hungry Corner,Desserts,19,Standard,2024-01-01,3.9,16
+634,Desi House,Pizza,19,Standard,2024-01-01,4.3,18
+635,Hungry Express,North Indian,19,Standard,2024-01-01,3.9,11
+636,Bombay Point,Chinese,19,Standard,2024-01-01,4.6,15
+637,Desi Point,Chinese,19,Standard,2024-01-01,3.9,12
+638,Chef's Kitchen,South Indian,19,Standard,2024-01-01,4.1,12
+639,Paradise Grill,Pizza,19,Standard,2024-01-01,3.9,13
+640,Punjab Corner,North Indian,19,Standard,2024-01-01,4.5,15
+641,Hungry Kitchen,South Indian,19,Standard,2024-01-01,4.0,14
+642,Little Bowl,Burgers,19,Standard,2024-01-01,3.6,12
+643,Golden Junction,Desserts,19,Standard,2024-01-01,3.7,14
+644,Green Grill,Pizza,19,Standard,2024-01-01,3.9,11
+645,Madras Kitchen,Chinese,19,Standard,2024-01-01,4.4,17
+646,Royal Bistro,Pizza,19,Standard,2024-01-01,3.7,18
+647,Spice Bistro,Healthy,19,Standard,2024-01-01,3.9,17
+648,Green Junction,Burgers,19,Standard,2024-01-01,4.7,11
+649,Royal House,North Indian,19,Standard,2024-01-01,3.6,18
+650,Tandoor Kitchen,Burgers,19,Standard,2024-01-01,4.1,11
+651,Bombay Treats,North Indian,19,Standard,2024-01-01,3.7,14
+652,Chef's House,Healthy,19,Standard,2024-01-01,3.6,18
+653,Royal Cafe,Healthy,20,Standard,2024-01-01,3.8,15
+654,Punjab Point,Burgers,20,Standard,2024-01-01,4.5,15
+655,Madras Bistro,North Indian,20,Standard,2024-01-01,3.8,14
+656,Dakshin Express,South Indian,20,Standard,2024-01-01,3.7,11
+657,Bombay Treats,North Indian,20,Standard,2024-01-01,4.4,17
+658,Bombay Corner,Pizza,20,Standard,2024-01-01,3.6,19
+659,Hungry Dhaba,South Indian,20,Standard,2024-01-01,4.3,14
+660,Spice Dhaba,Desserts,20,Standard,2024-01-01,4.5,12
+661,Urban Corner,Chinese,20,Standard,2024-01-01,4.3,17
+662,Little Bowl,Burgers,20,Standard,2024-01-01,4.5,18
+663,Desi House,Burgers,20,Standard,2024-01-01,4.1,15
+664,Madras Express,Desserts,20,Standard,2024-01-01,4.6,12
+665,Paradise Cafe,North Indian,20,Standard,2024-01-01,4.7,13
+666,Punjab Cafe,Burgers,20,Standard,2024-01-01,4.0,16
+667,Chef's Kitchen,North Indian,20,Standard,2024-01-01,3.6,19
+668,Spice Express,Chinese,20,Standard,2024-01-01,3.9,15
+669,Golden Junction,Chinese,20,Standard,2024-01-01,4.3,18
+670,Spice Cafe,Burgers,20,Standard,2024-01-01,4.1,14
+671,Madras Kitchen,Pizza,20,Standard,2024-01-01,4.0,15
+672,Hungry House,Chinese,20,Standard,2024-01-01,4.0,17
+673,Bombay Bowl,Pizza,20,Standard,2024-01-01,3.7,14
+674,Bombay Kitchen,Pizza,20,Standard,2024-01-01,4.1,12
+675,Urban Grill,Biryani,20,Standard,2024-01-01,4.3,19
+676,Punjab Dhaba,Burgers,20,Standard,2024-01-01,4.3,11
+677,Punjab Dhaba,Chinese,20,Standard,2024-01-01,4.5,15
+678,Madras Dhaba,Burgers,20,Standard,2024-01-01,4.5,17
+679,Bombay Treats,Burgers,20,Standard,2024-01-01,4.4,13
+680,Tandoor Kitchen,South Indian,20,Standard,2024-01-01,4.0,17
+681,Green Cafe,South Indian,20,Standard,2024-01-01,4.0,16
+682,Bombay Junction,Burgers,21,Standard,2024-01-01,4.0,12
+683,Spice Express,Healthy,21,Standard,2024-01-01,3.9,17
+684,Golden Express,Desserts,21,Standard,2024-01-01,4.2,15
+685,Tandoor Cafe,Biryani,21,Standard,2024-01-01,4.6,19
+686,Punjab Grill,Burgers,21,Standard,2024-01-01,4.4,14
+687,Punjab Junction,Pizza,21,Standard,2024-01-01,4.5,16
+688,Green Kitchen,Burgers,21,Standard,2024-01-01,4.4,14
+689,Chef's Dhaba,Pizza,21,Standard,2024-01-01,4.6,11
+690,Tandoor Cafe,Biryani,21,Standard,2024-01-01,4.6,17
+691,Tandoor House,South Indian,21,Standard,2024-01-01,4.1,16
+692,Royal Kitchen,Healthy,21,Standard,2024-01-01,4.6,13
+693,Chef's House,Pizza,21,Standard,2024-01-01,4.2,15
+694,Hungry Bistro,Healthy,21,Standard,2024-01-01,4.0,13
+695,Dakshin Grill,Biryani,21,Standard,2024-01-01,4.0,14
+696,Chef's Grill,Burgers,21,Standard,2024-01-01,4.7,14
+697,Urban Dhaba,Biryani,21,Standard,2024-01-01,4.3,14
+698,Spice Point,South Indian,21,Standard,2024-01-01,4.0,12
+699,Chef's Kitchen,Healthy,21,Standard,2024-01-01,4.4,18
+700,Punjab Bistro,Healthy,21,Standard,2024-01-01,4.6,13
+701,Little Dhaba,South Indian,21,Standard,2024-01-01,4.7,12
+702,Little Corner,Pizza,21,Standard,2024-01-01,4.4,12
+703,Madras Express,Chinese,21,Standard,2024-01-01,4.4,16
+704,Golden Corner,Desserts,21,Standard,2024-01-01,4.4,17
+705,Little Kitchen,Biryani,21,Standard,2024-01-01,4.0,15
+706,Punjab Grill,Burgers,21,Standard,2024-01-01,4.1,13
+707,Desi Bowl,Chinese,22,Standard,2024-01-01,4.2,12
+708,Desi Junction,Desserts,22,Standard,2024-01-01,4.0,17
+709,Little Corner,Desserts,22,Standard,2024-01-01,4.4,16
+710,Little Cafe,North Indian,22,Standard,2024-01-01,4.6,12
+711,Golden Express,Chinese,22,Standard,2024-01-01,4.4,15
+712,Green Grill,Chinese,22,Standard,2024-01-01,4.0,17
+713,Bombay Grill,Healthy,22,Standard,2024-01-01,4.5,11
+714,Madras House,Desserts,22,Standard,2024-01-01,4.1,16
+715,Madras Grill,Desserts,22,Standard,2024-01-01,4.0,17
+716,Desi Grill,South Indian,22,Standard,2024-01-01,4.2,12
+717,Spice Dhaba,Biryani,22,Standard,2024-01-01,4.3,12
+718,Royal House,Healthy,22,Standard,2024-01-01,3.6,16
+719,Little Corner,Biryani,22,Standard,2024-01-01,4.2,11
+720,Golden House,Healthy,22,Standard,2024-01-01,3.9,13
+721,Spice Treats,Chinese,22,Standard,2024-01-01,4.2,15
+722,Spice Grill,South Indian,22,Standard,2024-01-01,3.6,11
+723,Paradise Corner,Burgers,22,Standard,2024-01-01,3.9,19
+724,Spice Cafe,Desserts,22,Standard,2024-01-01,4.6,12
+725,Madras Dhaba,Desserts,22,Standard,2024-01-01,4.1,19
+726,Royal Grill,Chinese,22,Standard,2024-01-01,4.6,16
+727,Bombay Bowl,Chinese,22,Standard,2024-01-01,4.4,12
+728,Golden Express,Pizza,22,Standard,2024-01-01,4.6,13
+729,Madras Corner,Burgers,22,Standard,2024-01-01,3.7,13
+730,Dakshin House,South Indian,22,Standard,2024-01-01,4.1,15
+731,Golden Bistro,North Indian,22,Standard,2024-01-01,3.9,19
+732,Dakshin Kitchen,Biryani,22,Standard,2024-01-01,3.9,11
+733,Green Grill,Pizza,22,Standard,2024-01-01,4.1,11
+734,Bombay House,South Indian,22,Standard,2024-01-01,3.7,12
+735,Paradise Grill,Burgers,22,Standard,2024-01-01,4.3,15
+736,Spice Junction,Pizza,23,Standard,2024-01-01,4.5,18
+737,Hungry Bowl,South Indian,23,Standard,2024-01-01,4.6,19
+738,Royal Treats,Pizza,23,Standard,2024-01-01,4.1,19
+739,Chef's Dhaba,Burgers,23,Standard,2024-01-01,4.2,11
+740,Spice Cafe,Chinese,23,Standard,2024-01-01,3.9,12
+741,Chef's Bistro,Healthy,23,Standard,2024-01-01,3.7,11
+742,Madras Dhaba,Burgers,23,Standard,2024-01-01,4.0,19
+743,Little Bistro,Desserts,23,Standard,2024-01-01,4.7,15
+744,Royal Point,Desserts,23,Standard,2024-01-01,4.0,14
+745,Hungry House,Pizza,23,Standard,2024-01-01,3.8,18
+746,Tandoor Grill,Burgers,23,Standard,2024-01-01,3.7,13
+747,Little Express,Desserts,23,Standard,2024-01-01,3.9,17
+748,Spice Corner,Desserts,23,Standard,2024-01-01,3.7,12
+749,Little Grill,Pizza,23,Standard,2024-01-01,4.1,12
+750,Madras House,Biryani,23,Standard,2024-01-01,4.0,18
+751,Tandoor Grill,Pizza,23,Standard,2024-01-01,4.7,11
+752,Urban Cafe,Chinese,23,Standard,2024-01-01,3.7,19
+753,Madras House,Chinese,23,Standard,2024-01-01,4.3,14
+754,Paradise House,Biryani,23,Standard,2024-01-01,4.2,18
+755,Little Corner,Biryani,23,Standard,2024-01-01,4.5,13
+756,Punjab Treats,Desserts,23,Standard,2024-01-01,4.3,17
+757,Spice Express,Healthy,23,Standard,2024-01-01,4.3,17
+758,Urban Bowl,Pizza,23,Standard,2024-01-01,4.1,16
+759,Punjab Bistro,Healthy,23,Standard,2024-01-01,4.0,11
+760,Little Point,South Indian,23,Standard,2024-01-01,4.4,16
+761,Paradise Express,North Indian,23,Standard,2024-01-01,4.3,13
+762,Tandoor Point,Biryani,23,Standard,2024-01-01,3.7,14
+763,Paradise Kitchen,South Indian,23,Standard,2024-01-01,4.4,11
+764,Paradise Corner,Burgers,23,Standard,2024-01-01,4.5,18
+765,Chef's Dhaba,South Indian,23,Standard,2024-01-01,4.3,19
+766,Royal Corner,Chinese,23,Standard,2024-01-01,4.3,19
+767,Spice Point,Burgers,23,Standard,2024-01-01,4.6,14
+768,Desi Junction,Pizza,23,Standard,2024-01-01,4.6,11
+769,Spice Bistro,Pizza,23,Standard,2024-01-01,3.9,19
+770,Desi Bowl,Healthy,23,Standard,2024-01-01,3.8,13
+771,Green Express,Pizza,23,Standard,2024-01-01,3.7,12
+772,Paradise Treats,Biryani,23,Standard,2024-01-01,4.4,13
+773,Paradise Kitchen,Biryani,24,Standard,2024-01-01,3.7,18
+774,Bombay Treats,Healthy,24,Standard,2024-01-01,4.5,15
+775,Green Bistro,Pizza,24,Standard,2024-01-01,3.7,13
+776,Golden Bowl,Biryani,24,Standard,2024-01-01,4.1,11
+777,Paradise Express,South Indian,24,Standard,2024-01-01,4.5,13
+778,Hungry Corner,South Indian,24,Standard,2024-01-01,4.5,16
+779,Madras Grill,Burgers,24,Standard,2024-01-01,4.4,17
+780,Bombay Grill,North Indian,24,Standard,2024-01-01,3.6,13
+781,Dakshin Bowl,Biryani,24,Standard,2024-01-01,4.7,13
+782,Urban Bowl,Chinese,24,Standard,2024-01-01,3.9,17
+783,Spice Bistro,Burgers,24,Standard,2024-01-01,3.9,15
+784,Urban Bistro,Pizza,24,Standard,2024-01-01,3.9,13
+785,Royal Bowl,North Indian,24,Standard,2024-01-01,3.9,12
+786,Chef's Corner,Biryani,24,Standard,2024-01-01,3.8,12
+787,Madras Bistro,Pizza,24,Standard,2024-01-01,4.5,16
+788,Punjab Treats,Chinese,24,Standard,2024-01-01,3.8,19
+789,Tandoor Treats,Biryani,24,Standard,2024-01-01,4.4,13
+790,Paradise Cafe,Chinese,24,Standard,2024-01-01,3.9,19
+791,Spice House,Burgers,24,Standard,2024-01-01,3.8,19
+792,Urban Junction,Biryani,24,Standard,2024-01-01,4.6,15
+793,Paradise Treats,North Indian,24,Standard,2024-01-01,3.8,15
+794,Dakshin Treats,Desserts,24,Standard,2024-01-01,4.0,14
+795,Dakshin Express,North Indian,24,Standard,2024-01-01,4.0,11
+796,Golden Treats,Burgers,24,Standard,2024-01-01,3.9,11
+797,Golden Corner,Pizza,24,Standard,2024-01-01,3.9,19
+798,Chef's Point,Chinese,24,Standard,2024-01-01,4.5,19
+799,Royal Dhaba,Pizza,24,Standard,2024-01-01,3.9,15
+800,Bombay Express,South Indian,24,Standard,2024-01-01,4.6,11
+801,Green Bistro,Healthy,24,Standard,2024-01-01,4.3,17
+802,Green Kitchen,Pizza,24,Standard,2024-01-01,3.9,19
+803,Little House,Desserts,24,Standard,2024-01-01,4.1,19
+804,Spice Corner,Pizza,24,Standard,2024-01-01,4.6,15
+805,Spice Dhaba,Desserts,24,Standard,2024-01-01,4.0,13
+806,Hungry House,Desserts,24,Standard,2024-01-01,4.4,14
+807,Tandoor House,Burgers,24,Standard,2024-01-01,4.5,12
+808,Little Bistro,Healthy,24,Standard,2024-01-01,4.2,12
+809,Spice Treats,Burgers,24,Standard,2024-01-01,4.4,11
+810,Royal Express,Biryani,24,Standard,2024-01-01,3.8,12
+811,Golden Corner,Pizza,25,Standard,2024-01-01,4.3,15
+812,Bombay Point,Burgers,25,Standard,2024-01-01,4.4,18
+813,Hungry House,South Indian,25,Standard,2024-01-01,4.1,18
+814,Tandoor Kitchen,Chinese,25,Standard,2024-01-01,4.5,17
+815,Tandoor Junction,Pizza,25,Standard,2024-01-01,4.3,19
+816,Madras Corner,Pizza,25,Standard,2024-01-01,4.0,14
+817,Spice Bistro,Healthy,25,Standard,2024-01-01,3.6,17
+818,Punjab Kitchen,Biryani,25,Standard,2024-01-01,4.7,14
+819,Madras House,South Indian,25,Standard,2024-01-01,3.7,14
+820,Desi Bistro,Biryani,25,Standard,2024-01-01,4.5,12
+821,Hungry Express,Healthy,25,Standard,2024-01-01,4.3,17
+822,Tandoor Bowl,Chinese,25,Standard,2024-01-01,4.6,17
+823,Little Treats,Healthy,25,Standard,2024-01-01,4.0,15
+824,Paradise Dhaba,North Indian,25,Standard,2024-01-01,4.4,12
+825,Little Corner,Chinese,25,Standard,2024-01-01,3.8,18
+826,Little Treats,Healthy,25,Standard,2024-01-01,4.7,15
+827,Desi Dhaba,South Indian,25,Standard,2024-01-01,4.0,18
+828,Hungry Bistro,Biryani,25,Standard,2024-01-01,4.7,18
+829,Little Treats,Desserts,25,Standard,2024-01-01,4.1,18
+830,Green Express,Healthy,25,Standard,2024-01-01,3.9,15
+831,Spice Junction,South Indian,25,Standard,2024-01-01,4.4,14
+832,Dakshin Treats,Burgers,25,Standard,2024-01-01,4.4,19
+833,Tandoor Bistro,Desserts,25,Standard,2024-01-01,4.6,15
+834,Madras Corner,Desserts,25,Standard,2024-01-01,4.5,14
+835,Urban Point,Chinese,25,Standard,2024-01-01,3.9,14
+836,Tandoor Kitchen,North Indian,25,Standard,2024-01-01,3.9,15
+837,Punjab Cafe,South Indian,25,Standard,2024-01-01,3.9,16
+838,Punjab Treats,Healthy,25,Standard,2024-01-01,4.3,11
+839,Spice House,South Indian,26,Standard,2024-01-01,4.3,14
+840,Little Junction,Desserts,26,Standard,2024-01-01,4.1,14
+841,Bombay Corner,North Indian,26,Standard,2024-01-01,4.0,12
+842,Green Point,Desserts,26,Standard,2024-01-01,3.9,16
+843,Dakshin Express,Burgers,26,Standard,2024-01-01,4.4,17
+844,Golden Corner,Chinese,26,Standard,2024-01-01,4.2,17
+845,Spice Grill,Pizza,26,Standard,2024-01-01,4.2,17
+846,Punjab House,Biryani,26,Standard,2024-01-01,4.3,16
+847,Paradise Cafe,Pizza,26,Standard,2024-01-01,4.4,13
+848,Desi Bowl,Healthy,26,Standard,2024-01-01,3.9,13
+849,Royal Kitchen,Biryani,26,Standard,2024-01-01,3.8,13
+850,Little Grill,Burgers,26,Standard,2024-01-01,4.7,19
+851,Royal Kitchen,Burgers,26,Standard,2024-01-01,4.2,13
+852,Urban Bistro,Chinese,26,Standard,2024-01-01,4.5,15
+853,Desi Bistro,Chinese,26,Standard,2024-01-01,3.9,12
+854,Green Treats,Pizza,26,Standard,2024-01-01,4.0,16
+855,Urban Corner,Chinese,26,Standard,2024-01-01,4.5,17
+856,Royal Grill,Chinese,26,Standard,2024-01-01,4.4,15
+857,Dakshin Dhaba,Healthy,26,Standard,2024-01-01,4.3,19
+858,Urban Corner,Pizza,26,Standard,2024-01-01,4.3,16
+859,Bombay Grill,South Indian,26,Standard,2024-01-01,3.7,11
+860,Tandoor Treats,Desserts,26,Standard,2024-01-01,4.1,18
+861,Royal Cafe,South Indian,26,Standard,2024-01-01,3.7,15
+862,Golden Dhaba,Biryani,26,Standard,2024-01-01,4.5,14
+863,Golden Corner,Chinese,26,Standard,2024-01-01,4.0,17
+864,Spice Cafe,Biryani,26,Standard,2024-01-01,4.6,14
+865,Madras Bistro,Healthy,26,Standard,2024-01-01,4.5,13
+866,Spice Junction,Desserts,26,Standard,2024-01-01,4.3,14
+867,Golden Grill,Biryani,26,Standard,2024-01-01,3.8,16
+868,Little Bistro,South Indian,26,Standard,2024-01-01,3.8,19
+869,Hungry Dhaba,Biryani,26,Standard,2024-01-01,3.9,17
+870,Dakshin Junction,Pizza,26,Standard,2024-01-01,4.6,19
+871,Urban Point,Pizza,26,Standard,2024-01-01,4.6,19
+872,Tandoor Express,Healthy,26,Standard,2024-01-01,4.2,17
+873,Urban Treats,Desserts,26,Standard,2024-01-01,4.7,11
+874,Urban Point,Biryani,26,Standard,2024-01-01,3.8,11
+875,Desi Junction,North Indian,26,Standard,2024-01-01,4.3,18
+876,Golden Corner,South Indian,26,Standard,2024-01-01,4.1,16
+877,Bombay Corner,North Indian,26,Standard,2024-01-01,3.8,11
+878,Paradise Cafe,Chinese,26,Standard,2024-01-01,4.2,18
+879,Bombay Cafe,Biryani,27,Standard,2024-01-01,3.7,11
+880,Desi House,North Indian,27,Standard,2024-01-01,4.3,12
+881,Little Grill,Burgers,27,Standard,2024-01-01,3.9,17
+882,Little Bistro,Chinese,27,Standard,2024-01-01,4.3,11
+883,Spice Treats,Pizza,27,Standard,2024-01-01,4.1,19
+884,Urban Bistro,Healthy,27,Standard,2024-01-01,3.7,11
+885,Bombay Grill,Desserts,27,Standard,2024-01-01,4.1,11
+886,Paradise Corner,Chinese,27,Standard,2024-01-01,4.4,15
+887,Tandoor Grill,Burgers,27,Standard,2024-01-01,3.7,16
+888,Tandoor Corner,South Indian,27,Standard,2024-01-01,3.7,11
+889,Punjab House,Chinese,27,Standard,2024-01-01,3.8,13
+890,Chef's Express,Pizza,27,Standard,2024-01-01,3.8,17
+891,Tandoor Kitchen,North Indian,27,Standard,2024-01-01,4.2,16
+892,Green Express,Healthy,27,Standard,2024-01-01,3.8,18
+893,Golden Cafe,Burgers,27,Standard,2024-01-01,4.2,18
+894,Urban Grill,North Indian,27,Standard,2024-01-01,3.9,13
+895,Bombay House,Pizza,27,Standard,2024-01-01,3.8,15
+896,Punjab Corner,Chinese,27,Standard,2024-01-01,4.6,18
+897,Madras Junction,Chinese,27,Standard,2024-01-01,3.9,16
+898,Green Grill,Pizza,27,Standard,2024-01-01,4.6,18
+899,Golden Bistro,Biryani,27,Standard,2024-01-01,3.9,16
+900,Paradise Express,Chinese,27,Standard,2024-01-01,4.1,15
+901,Desi Kitchen,North Indian,27,Standard,2024-01-01,3.8,11
+902,Desi Corner,Pizza,27,Standard,2024-01-01,4.6,18
+903,Royal House,Pizza,27,Standard,2024-01-01,3.8,18
+904,Royal Bistro,Pizza,27,Standard,2024-01-01,4.5,16
+905,Royal Cafe,North Indian,27,Standard,2024-01-01,4.3,15
+906,Bombay Cafe,South Indian,27,Standard,2024-01-01,4.0,11
+907,Madras Corner,South Indian,27,Standard,2024-01-01,4.2,13
+908,Golden Junction,Burgers,27,Standard,2024-01-01,4.3,17
+909,Royal Dhaba,Pizza,27,Standard,2024-01-01,4.2,14
+910,Spice Bowl,Healthy,27,Standard,2024-01-01,4.2,17
+911,Hungry Bistro,Biryani,28,Standard,2024-01-01,4.6,18
+912,Desi Point,Biryani,28,Standard,2024-01-01,4.2,19
+913,Punjab Cafe,Pizza,28,Standard,2024-01-01,4.3,13
+914,Golden Corner,Desserts,28,Standard,2024-01-01,3.9,13
+915,Golden Treats,Pizza,28,Standard,2024-01-01,3.7,16
+916,Green Kitchen,Healthy,28,Standard,2024-01-01,3.9,17
+917,Punjab Junction,Pizza,28,Standard,2024-01-01,4.4,18
+918,Punjab Bowl,Healthy,28,Standard,2024-01-01,4.0,16
+919,Chef's Treats,South Indian,28,Standard,2024-01-01,4.4,15
+920,Urban Cafe,Healthy,28,Standard,2024-01-01,4.1,16
+921,Urban Junction,Chinese,28,Standard,2024-01-01,4.5,17
+922,Royal Treats,Burgers,28,Standard,2024-01-01,4.4,14
+923,Spice Grill,Burgers,28,Standard,2024-01-01,3.9,13
+924,Hungry Cafe,Chinese,28,Standard,2024-01-01,3.9,14
+925,Golden Express,Burgers,28,Standard,2024-01-01,3.9,12
+926,Bombay Bistro,Biryani,28,Standard,2024-01-01,4.0,11
+927,Dakshin Junction,Biryani,28,Standard,2024-01-01,3.7,18
+928,Desi Cafe,Healthy,28,Standard,2024-01-01,4.2,17
+929,Green Bistro,Burgers,28,Standard,2024-01-01,4.4,15
+930,Bombay Junction,Healthy,28,Standard,2024-01-01,3.8,16
+931,Bombay Cafe,Desserts,28,Standard,2024-01-01,3.7,19
+932,Hungry Treats,Healthy,28,Standard,2024-01-01,4.6,11
+933,Little Junction,South Indian,28,Standard,2024-01-01,4.5,11
+934,Punjab Point,Biryani,28,Standard,2024-01-01,4.2,14
+935,Royal Cafe,Burgers,28,Standard,2024-01-01,4.1,19
+936,Madras Bistro,Healthy,28,Standard,2024-01-01,4.4,17
+937,Punjab Treats,Burgers,28,Standard,2024-01-01,4.4,11
+938,Hungry Bistro,South Indian,28,Standard,2024-01-01,3.8,18
+939,Chef's Bowl,Desserts,28,Standard,2024-01-01,4.3,12
+940,Chef's House,South Indian,28,Standard,2024-01-01,4.3,12
+941,Paradise Point,Biryani,28,Standard,2024-01-01,4.2,12
+942,Tandoor House,Burgers,28,Standard,2024-01-01,4.4,14
+943,Golden Cafe,North Indian,28,Standard,2024-01-01,3.7,19
+944,Golden Treats,Desserts,28,Standard,2024-01-01,4.4,17
+945,Spice Dhaba,North Indian,29,Standard,2024-01-01,4.1,14
+946,Punjab Corner,Chinese,29,Standard,2024-01-01,3.9,12
+947,Desi Cafe,Biryani,29,Standard,2024-01-01,4.5,11
+948,Spice Junction,Chinese,29,Standard,2024-01-01,3.9,16
+949,Spice Grill,Healthy,29,Standard,2024-01-01,4.5,18
+950,Spice Cafe,Pizza,29,Standard,2024-01-01,3.9,18
+951,Urban Grill,Healthy,29,Standard,2024-01-01,3.7,19
+952,Punjab Cafe,Burgers,29,Standard,2024-01-01,3.8,18
+953,Tandoor House,Chinese,29,Standard,2024-01-01,3.8,17
+954,Royal Express,North Indian,29,Standard,2024-01-01,3.9,15
+955,Paradise Dhaba,Burgers,29,Standard,2024-01-01,4.0,19
+956,Madras Bowl,Burgers,29,Standard,2024-01-01,4.1,17
+957,Paradise Grill,Healthy,29,Standard,2024-01-01,3.6,18
+958,Bombay Corner,Desserts,29,Standard,2024-01-01,3.7,11
+959,Tandoor Corner,North Indian,29,Standard,2024-01-01,4.3,18
+960,Dakshin Treats,Desserts,29,Standard,2024-01-01,3.7,16
+961,Desi Point,Desserts,29,Standard,2024-01-01,4.6,16
+962,Paradise Bistro,South Indian,29,Standard,2024-01-01,3.6,18
+963,Paradise Junction,Burgers,29,Standard,2024-01-01,3.7,13
+964,Tandoor Bowl,Pizza,29,Standard,2024-01-01,4.1,17
+965,Madras Bistro,Healthy,29,Standard,2024-01-01,3.8,11
+966,Paradise Junction,Desserts,29,Standard,2024-01-01,4.2,11
+967,Paradise Junction,Pizza,29,Standard,2024-01-01,4.2,18
+968,Green Bowl,Healthy,29,Standard,2024-01-01,3.6,18
+969,Madras Treats,Biryani,29,Standard,2024-01-01,4.7,14
+970,Punjab Dhaba,Healthy,29,Standard,2024-01-01,4.6,14
+971,Bombay Grill,Healthy,29,Standard,2024-01-01,4.3,16
+972,Spice Corner,Chinese,29,Standard,2024-01-01,4.6,18
+973,Spice Point,Biryani,30,Standard,2024-01-01,4.3,13
+974,Dakshin Dhaba,Biryani,30,Standard,2024-01-01,4.4,12
+975,Tandoor Treats,North Indian,30,Standard,2024-01-01,4.0,18
+976,Madras Express,North Indian,30,Standard,2024-01-01,4.0,17
+977,Hungry Junction,Chinese,30,Standard,2024-01-01,3.6,11
+978,Desi House,South Indian,30,Standard,2024-01-01,4.4,13
+979,Little Kitchen,Burgers,30,Standard,2024-01-01,4.5,17
+980,Tandoor Treats,Burgers,30,Standard,2024-01-01,3.6,19
+981,Hungry Kitchen,Biryani,30,Standard,2024-01-01,4.2,17
+982,Urban House,Pizza,30,Standard,2024-01-01,3.7,16
+983,Green Express,Biryani,30,Standard,2024-01-01,4.5,16
+984,Bombay Express,Biryani,30,Standard,2024-01-01,3.7,19
+985,Green Point,North Indian,30,Standard,2024-01-01,4.6,15
+986,Paradise Express,North Indian,30,Standard,2024-01-01,4.1,13
+987,Green House,North Indian,30,Standard,2024-01-01,4.1,17
+988,Desi Bistro,Healthy,30,Standard,2024-01-01,3.8,16
+989,Green House,North Indian,30,Standard,2024-01-01,4.1,17
+990,Bombay House,Pizza,30,Standard,2024-01-01,3.7,16
+991,Paradise Dhaba,Healthy,30,Standard,2024-01-01,4.6,12
+992,Dakshin Bistro,South Indian,30,Standard,2024-01-01,4.0,12
+993,Punjab Bowl,Biryani,30,Standard,2024-01-01,4.0,15
+994,Golden Express,Desserts,30,Standard,2024-01-01,3.8,18
+995,Urban Junction,Burgers,30,Standard,2024-01-01,4.2,11
+996,Paradise Cafe,Healthy,30,Standard,2024-01-01,4.4,13
+997,Urban Kitchen,Pizza,30,Standard,2024-01-01,4.0,11
+998,Tandoor Corner,Burgers,30,Standard,2024-01-01,4.0,15
+999,Royal Treats,Healthy,30,Standard,2024-01-01,3.7,12
+1000,Golden Bowl,Biryani,30,Standard,2024-01-01,4.1,17
+1001,Paradise Bowl,North Indian,30,Standard,2024-01-01,3.8,16
+1002,Punjab Junction,Pizza,30,Standard,2024-01-01,3.7,11
+1003,Bombay Grill,North Indian,30,Standard,2024-01-01,3.8,14
+1004,Tandoor House,Biryani,30,Standard,2024-01-01,4.3,17
+1005,Spice Cafe,Healthy,30,Standard,2024-01-01,4.3,15
+1006,Royal Grill,North Indian,30,Standard,2024-01-01,4.1,16
+1007,Spice Junction,Healthy,30,Standard,2024-01-01,4.5,15
+1008,Spice Treats,North Indian,30,Standard,2024-01-01,4.3,13
+1009,Bombay Grill,Chinese,30,Standard,2024-01-01,4.4,19
+1010,Dakshin Dhaba,Healthy,30,Standard,2024-01-01,4.1,14
+1011,Spice Dhaba,Pizza,30,Standard,2024-01-01,3.6,12
+1012,Madras Grill,Desserts,30,Standard,2024-01-01,4.6,13
+1013,Spice Bistro,North Indian,31,Standard,2024-01-01,4.3,16
+1014,Golden Cafe,Desserts,31,Standard,2024-01-01,3.6,16
+1015,Chef's Bistro,Biryani,31,Standard,2024-01-01,4.5,15
+1016,Bombay Bowl,South Indian,31,Standard,2024-01-01,4.5,14
+1017,Madras House,Healthy,31,Standard,2024-01-01,4.6,14
+1018,Royal Kitchen,Healthy,31,Standard,2024-01-01,3.8,14
+1019,Spice Cafe,Biryani,31,Standard,2024-01-01,3.7,12
+1020,Green Corner,Desserts,31,Standard,2024-01-01,4.3,18
+1021,Green Dhaba,Biryani,31,Standard,2024-01-01,3.6,14
+1022,Bombay Kitchen,Pizza,31,Standard,2024-01-01,4.0,19
+1023,Madras Treats,North Indian,31,Standard,2024-01-01,4.3,14
+1024,Golden Bowl,Biryani,31,Standard,2024-01-01,4.4,13
+1025,Little Bistro,Healthy,31,Standard,2024-01-01,4.4,12
+1026,Paradise Bowl,Pizza,31,Standard,2024-01-01,4.6,14
+1027,Urban Bistro,Pizza,31,Standard,2024-01-01,4.5,17
+1028,Punjab Cafe,Healthy,31,Standard,2024-01-01,4.0,16
+1029,Dakshin Treats,Chinese,31,Standard,2024-01-01,4.6,11
+1030,Golden Bowl,Chinese,31,Standard,2024-01-01,3.7,17
+1031,Bombay Kitchen,South Indian,31,Standard,2024-01-01,4.4,19
+1032,Desi Grill,Burgers,31,Standard,2024-01-01,4.1,12
+1033,Golden Grill,South Indian,31,Standard,2024-01-01,4.0,17
+1034,Golden Junction,North Indian,31,Standard,2024-01-01,4.6,16
+1035,Paradise Treats,Biryani,31,Standard,2024-01-01,3.6,11
+1036,Green Treats,Biryani,31,Standard,2024-01-01,4.4,15
+1037,Chef's Bistro,Pizza,31,Standard,2024-01-01,3.9,12
+1038,Bombay Point,Pizza,31,Standard,2024-01-01,4.0,16
+1039,Chef's Express,Pizza,31,Standard,2024-01-01,3.7,14
+1040,Bombay Treats,North Indian,31,Standard,2024-01-01,3.8,13
+1041,Urban Dhaba,Chinese,31,Standard,2024-01-01,4.4,17
+1042,Little Bistro,Healthy,31,Standard,2024-01-01,4.1,18
+1043,Paradise Point,Chinese,31,Standard,2024-01-01,4.4,12
+1044,Tandoor Bowl,Biryani,31,Standard,2024-01-01,4.0,12
+1045,Spice Dhaba,Healthy,31,Standard,2024-01-01,4.0,17
+1046,Madras Treats,Pizza,31,Standard,2024-01-01,4.2,12
+1047,Desi Grill,Burgers,31,Standard,2024-01-01,4.6,17
+1048,Golden Grill,South Indian,31,Standard,2024-01-01,4.3,14
+1049,Punjab Bistro,Healthy,31,Standard,2024-01-01,4.1,19
+1050,Bombay Junction,Biryani,31,Standard,2024-01-01,4.5,18
+1051,Spice Cafe,Pizza,31,Standard,2024-01-01,3.7,11
+1052,Royal Junction,South Indian,31,Standard,2024-01-01,3.7,14
+1053,Madras Treats,South Indian,32,Standard,2024-01-01,4.3,15
+1054,Tandoor Treats,Biryani,32,Standard,2024-01-01,4.4,17
+1055,Desi Dhaba,South Indian,32,Standard,2024-01-01,4.4,15
+1056,Desi Bowl,Healthy,32,Standard,2024-01-01,3.7,14
+1057,Tandoor Treats,Biryani,32,Standard,2024-01-01,3.8,15
+1058,Madras Corner,Healthy,32,Standard,2024-01-01,4.0,19
+1059,Bombay Kitchen,Desserts,32,Standard,2024-01-01,4.3,15
+1060,Little Junction,Desserts,32,Standard,2024-01-01,4.3,18
+1061,Royal Grill,Biryani,32,Standard,2024-01-01,4.6,15
+1062,Desi Grill,Chinese,32,Standard,2024-01-01,4.7,12
+1063,Spice Grill,Burgers,32,Standard,2024-01-01,4.1,18
+1064,Royal Corner,Biryani,32,Standard,2024-01-01,4.3,17
+1065,Madras Kitchen,Burgers,32,Standard,2024-01-01,4.5,18
+1066,Royal Treats,Biryani,32,Standard,2024-01-01,3.7,13
+1067,Chef's House,Burgers,32,Standard,2024-01-01,4.3,19
+1068,Bombay Kitchen,North Indian,32,Standard,2024-01-01,3.7,13
+1069,Hungry Express,Burgers,32,Standard,2024-01-01,3.9,19
+1070,Royal Treats,Burgers,32,Standard,2024-01-01,4.3,19
+1071,Punjab Dhaba,Burgers,32,Standard,2024-01-01,3.8,16
+1072,Dakshin Bowl,Healthy,32,Standard,2024-01-01,4.7,11
+1073,Punjab House,Biryani,32,Standard,2024-01-01,3.7,18
+1074,Chef's Bowl,Pizza,32,Standard,2024-01-01,4.1,14
+1075,Golden Bistro,Burgers,32,Standard,2024-01-01,4.0,19
+1076,Dakshin Dhaba,Pizza,32,Standard,2024-01-01,3.9,11
+1077,Dakshin Bistro,Biryani,32,Standard,2024-01-01,4.0,19
+1078,Chef's Junction,Desserts,32,Standard,2024-01-01,4.4,13
+1079,Golden Cafe,Pizza,32,Standard,2024-01-01,3.9,12
+1080,Punjab Cafe,Pizza,32,Standard,2024-01-01,4.6,16
+1081,Tandoor Kitchen,South Indian,33,Standard,2024-01-01,4.2,19
+1082,Royal Junction,Desserts,33,Standard,2024-01-01,3.7,14
+1083,Little Dhaba,South Indian,33,Standard,2024-01-01,3.7,17
+1084,Tandoor Grill,South Indian,33,Standard,2024-01-01,4.1,15
+1085,Tandoor Corner,South Indian,33,Standard,2024-01-01,3.6,12
+1086,Desi Corner,Desserts,33,Standard,2024-01-01,3.6,11
+1087,Little House,South Indian,33,Standard,2024-01-01,4.1,16
+1088,Golden Corner,Chinese,33,Standard,2024-01-01,3.6,16
+1089,Urban Bistro,North Indian,33,Standard,2024-01-01,4.2,13
+1090,Green Treats,Burgers,33,Standard,2024-01-01,4.6,15
+1091,Desi Bistro,North Indian,33,Standard,2024-01-01,4.0,18
+1092,Dakshin Express,Desserts,33,Standard,2024-01-01,3.9,16
+1093,Golden House,Chinese,33,Standard,2024-01-01,4.3,11
+1094,Golden Bistro,Burgers,33,Standard,2024-01-01,4.1,13
+1095,Bombay Express,Chinese,33,Standard,2024-01-01,3.7,17
+1096,Royal Kitchen,Healthy,33,Standard,2024-01-01,3.9,13
+1097,Chef's Kitchen,South Indian,33,Standard,2024-01-01,4.0,13
+1098,Royal Cafe,Healthy,33,Standard,2024-01-01,4.3,15
+1099,Hungry Corner,Chinese,33,Standard,2024-01-01,4.2,12
+1100,Golden Cafe,Pizza,33,Standard,2024-01-01,4.1,17
+1101,Chef's Cafe,North Indian,33,Standard,2024-01-01,3.9,11
+1102,Bombay Treats,Biryani,33,Standard,2024-01-01,3.7,16
+1103,Green Grill,Biryani,33,Standard,2024-01-01,4.0,16
+1104,Hungry Kitchen,Biryani,33,Standard,2024-01-01,3.7,15
+1105,Paradise House,Chinese,33,Standard,2024-01-01,4.7,15
+1106,Desi Express,South Indian,33,Standard,2024-01-01,3.9,16
+1107,Spice Cafe,Pizza,33,Standard,2024-01-01,4.4,15
+1108,Dakshin Junction,Chinese,33,Standard,2024-01-01,4.5,14
+1109,Hungry Point,Pizza,33,Standard,2024-01-01,4.3,13
+1110,Hungry Point,Healthy,33,Standard,2024-01-01,4.6,12
+1111,Bombay Junction,Biryani,33,Standard,2024-01-01,3.8,12
+1112,Madras Treats,North Indian,33,Standard,2024-01-01,4.3,18
+1113,Paradise Express,Burgers,34,Standard,2024-01-01,4.0,16
+1114,Spice Kitchen,Healthy,34,Standard,2024-01-01,3.8,15
+1115,Little Treats,Healthy,34,Standard,2024-01-01,3.7,11
+1116,Urban Bistro,Healthy,34,Standard,2024-01-01,4.5,12
+1117,Punjab House,South Indian,34,Standard,2024-01-01,4.3,17
+1118,Royal Point,Chinese,34,Standard,2024-01-01,4.1,13
+1119,Tandoor Point,South Indian,34,Standard,2024-01-01,3.9,13
+1120,Paradise Bistro,Chinese,34,Standard,2024-01-01,3.9,11
+1121,Punjab House,Desserts,34,Standard,2024-01-01,4.1,19
+1122,Desi House,Desserts,34,Standard,2024-01-01,4.5,18
+1123,Dakshin Bowl,North Indian,34,Standard,2024-01-01,3.7,18
+1124,Golden Point,Pizza,34,Standard,2024-01-01,4.5,16
+1125,Green House,North Indian,34,Standard,2024-01-01,3.6,12
+1126,Hungry Treats,South Indian,34,Standard,2024-01-01,4.1,13
+1127,Green Bistro,Biryani,34,Standard,2024-01-01,3.9,15
+1128,Bombay Express,South Indian,34,Standard,2024-01-01,4.4,14
+1129,Golden Bistro,Desserts,34,Standard,2024-01-01,4.1,15
+1130,Green Bistro,Chinese,34,Standard,2024-01-01,4.2,12
+1131,Tandoor Corner,Pizza,34,Standard,2024-01-01,4.0,12
+1132,Spice Point,Chinese,34,Standard,2024-01-01,4.6,17
+1133,Green Junction,Chinese,34,Standard,2024-01-01,4.1,18
+1134,Spice Bowl,North Indian,34,Standard,2024-01-01,4.2,18
+1135,Chef's Dhaba,Biryani,34,Standard,2024-01-01,3.7,19
+1136,Paradise Bistro,South Indian,34,Standard,2024-01-01,4.6,16
+1137,Spice Cafe,Desserts,34,Standard,2024-01-01,3.6,15
+1138,Chef's Treats,Pizza,35,Standard,2024-01-01,4.3,11
+1139,Golden Junction,Chinese,35,Standard,2024-01-01,3.7,16
+1140,Bombay Treats,Biryani,35,Standard,2024-01-01,4.7,17
+1141,Tandoor Dhaba,Burgers,35,Standard,2024-01-01,4.3,15
+1142,Royal Cafe,North Indian,35,Standard,2024-01-01,3.7,16
+1143,Chef's Bistro,Biryani,35,Standard,2024-01-01,4.3,12
+1144,Desi Junction,Pizza,35,Standard,2024-01-01,4.4,12
+1145,Punjab Bistro,North Indian,35,Standard,2024-01-01,4.2,19
+1146,Dakshin Bowl,North Indian,35,Standard,2024-01-01,3.9,14
+1147,Paradise Corner,Healthy,35,Standard,2024-01-01,4.4,13
+1148,Madras Cafe,Chinese,35,Standard,2024-01-01,4.4,13
+1149,Desi Express,North Indian,35,Standard,2024-01-01,4.0,18
+1150,Desi Treats,Pizza,35,Standard,2024-01-01,3.7,18
+1151,Punjab Grill,Chinese,35,Standard,2024-01-01,4.4,17
+1152,Punjab Corner,Chinese,35,Standard,2024-01-01,4.4,13
+1153,Spice House,Pizza,35,Standard,2024-01-01,4.2,17
+1154,Dakshin House,Healthy,35,Standard,2024-01-01,4.2,11
+1155,Green Cafe,South Indian,35,Standard,2024-01-01,4.5,13
+1156,Hungry Bistro,South Indian,35,Standard,2024-01-01,4.5,13
+1157,Punjab House,Biryani,35,Standard,2024-01-01,3.9,18
+1158,Golden House,Desserts,35,Standard,2024-01-01,3.7,16
+1159,Dakshin Grill,North Indian,35,Standard,2024-01-01,4.4,16
+1160,Punjab Kitchen,Pizza,35,Standard,2024-01-01,3.9,16
+1161,Chef's House,North Indian,35,Standard,2024-01-01,3.9,15
+1162,Hungry Kitchen,Pizza,35,Standard,2024-01-01,4.5,11
+1163,Dakshin Grill,North Indian,35,Standard,2024-01-01,4.1,11
+1164,Little Express,Biryani,35,Standard,2024-01-01,3.9,13
+1165,Urban Dhaba,Pizza,35,Standard,2024-01-01,4.2,14
+1166,Spice Junction,South Indian,36,Standard,2024-01-01,4.6,18
+1167,Chef's Grill,Burgers,36,Standard,2024-01-01,4.3,19
+1168,Bombay Junction,Burgers,36,Standard,2024-01-01,4.2,18
+1169,Royal Cafe,Healthy,36,Standard,2024-01-01,4.7,13
+1170,Royal Kitchen,South Indian,36,Standard,2024-01-01,4.7,14
+1171,Chef's Express,North Indian,36,Standard,2024-01-01,4.5,12
+1172,Dakshin Kitchen,Chinese,36,Standard,2024-01-01,3.9,18
+1173,Tandoor Dhaba,Chinese,36,Standard,2024-01-01,4.5,11
+1174,Punjab Bowl,South Indian,36,Standard,2024-01-01,3.8,13
+1175,Little Express,Burgers,36,Standard,2024-01-01,4.4,16
+1176,Paradise Express,Healthy,36,Standard,2024-01-01,3.9,19
+1177,Green House,Desserts,36,Standard,2024-01-01,4.1,18
+1178,Paradise Bowl,Desserts,36,Standard,2024-01-01,4.0,11
+1179,Hungry Dhaba,Pizza,36,Standard,2024-01-01,4.0,12
+1180,Punjab Dhaba,Biryani,36,Standard,2024-01-01,3.9,11
+1181,Urban Grill,Desserts,36,Standard,2024-01-01,4.4,16
+1182,Tandoor Cafe,Pizza,36,Standard,2024-01-01,4.0,12
+1183,Chef's Bistro,Pizza,36,Standard,2024-01-01,4.4,13
+1184,Urban Point,South Indian,36,Standard,2024-01-01,4.1,13
+1185,Dakshin Treats,Desserts,36,Standard,2024-01-01,3.8,12
+1186,Spice Junction,Desserts,36,Standard,2024-01-01,3.9,14
+1187,Punjab Junction,Chinese,36,Standard,2024-01-01,3.8,16
+1188,Tandoor Junction,North Indian,36,Standard,2024-01-01,4.1,19
+1189,Tandoor Dhaba,Healthy,36,Standard,2024-01-01,3.7,14
+1190,Chef's Bowl,Burgers,36,Standard,2024-01-01,3.8,19
+1191,Paradise Express,South Indian,36,Standard,2024-01-01,3.9,17
+1192,Urban Kitchen,Burgers,37,Standard,2024-01-01,4.6,11
+1193,Paradise Kitchen,Chinese,37,Standard,2024-01-01,3.7,11
+1194,Bombay House,Chinese,37,Standard,2024-01-01,4.6,19
+1195,Urban Corner,Chinese,37,Standard,2024-01-01,4.3,18
+1196,Golden Dhaba,Burgers,37,Standard,2024-01-01,4.1,19
+1197,Little Corner,Healthy,37,Standard,2024-01-01,3.6,17
+1198,Madras Kitchen,North Indian,37,Standard,2024-01-01,4.5,19
+1199,Chef's Express,Healthy,37,Standard,2024-01-01,3.8,18
+1200,Royal Kitchen,Chinese,37,Standard,2024-01-01,4.4,17
+1201,Hungry Cafe,Pizza,37,Standard,2024-01-01,3.9,11
+1202,Dakshin Kitchen,Biryani,37,Standard,2024-01-01,4.2,15
+1203,Hungry Bistro,Chinese,37,Standard,2024-01-01,3.7,16
+1204,Chef's Express,South Indian,37,Standard,2024-01-01,4.4,13
+1205,Punjab House,Desserts,37,Standard,2024-01-01,3.6,15
+1206,Royal Junction,Healthy,37,Standard,2024-01-01,3.7,11
+1207,Desi Kitchen,Healthy,37,Standard,2024-01-01,4.1,17
+1208,Spice Point,Biryani,37,Standard,2024-01-01,4.1,19
+1209,Punjab Grill,Chinese,37,Standard,2024-01-01,4.1,15
+1210,Madras Dhaba,North Indian,37,Standard,2024-01-01,3.9,16
+1211,Green Treats,Chinese,37,Standard,2024-01-01,4.3,11
+1212,Royal Bowl,Biryani,37,Standard,2024-01-01,4.1,14
+1213,Punjab Point,North Indian,37,Standard,2024-01-01,4.4,19
+1214,Paradise Bistro,Burgers,37,Standard,2024-01-01,4.1,11
+1215,Dakshin Grill,Desserts,37,Standard,2024-01-01,4.5,18
+1216,Golden Express,Burgers,37,Standard,2024-01-01,3.8,16
+1217,Chef's House,Chinese,37,Standard,2024-01-01,4.3,11
+1218,Golden Cafe,Pizza,37,Standard,2024-01-01,3.9,17
+1219,Paradise Point,North Indian,37,Standard,2024-01-01,4.4,15
+1220,Hungry Junction,South Indian,37,Standard,2024-01-01,3.7,12
+1221,Paradise Corner,Biryani,37,Standard,2024-01-01,3.9,15
+1222,Green Dhaba,South Indian,38,Standard,2024-01-01,3.9,19
+1223,Little Bowl,North Indian,38,Standard,2024-01-01,4.5,12
+1224,Punjab Bistro,Biryani,38,Standard,2024-01-01,3.7,18
+1225,Bombay Express,Biryani,38,Standard,2024-01-01,4.0,17
+1226,Paradise Point,Healthy,38,Standard,2024-01-01,4.3,17
+1227,Tandoor Dhaba,Chinese,38,Standard,2024-01-01,4.0,11
+1228,Royal Express,Desserts,38,Standard,2024-01-01,3.8,18
+1229,Madras House,Desserts,38,Standard,2024-01-01,4.1,14
+1230,Dakshin House,Chinese,38,Standard,2024-01-01,4.0,17
+1231,Bombay Express,Biryani,38,Standard,2024-01-01,4.1,17
+1232,Green Bistro,Healthy,38,Standard,2024-01-01,3.7,15
+1233,Desi Express,Biryani,38,Standard,2024-01-01,4.1,11
+1234,Hungry Grill,Burgers,38,Standard,2024-01-01,4.5,13
+1235,Dakshin Point,Desserts,38,Standard,2024-01-01,4.0,17
+1236,Dakshin Dhaba,Chinese,38,Standard,2024-01-01,4.5,15
+1237,Dakshin Point,Desserts,38,Standard,2024-01-01,4.6,11
+1238,Spice Corner,Healthy,38,Standard,2024-01-01,4.2,15
+1239,Punjab Grill,South Indian,38,Standard,2024-01-01,3.8,11
+1240,Desi Point,South Indian,38,Standard,2024-01-01,4.5,18
+1241,Punjab Junction,North Indian,38,Standard,2024-01-01,4.1,18
+1242,Dakshin Cafe,Biryani,38,Standard,2024-01-01,4.5,16
+1243,Madras Treats,North Indian,38,Standard,2024-01-01,4.5,19
+1244,Golden Bistro,Burgers,38,Standard,2024-01-01,3.7,17
+1245,Golden Point,Pizza,38,Standard,2024-01-01,4.3,14
+1246,Urban Bistro,Burgers,38,Standard,2024-01-01,4.2,16
+1247,Little Junction,Pizza,38,Standard,2024-01-01,3.8,16
+1248,Urban Dhaba,Biryani,38,Standard,2024-01-01,4.7,14
+1249,Punjab Kitchen,Biryani,38,Standard,2024-01-01,4.0,12
+1250,Golden Bistro,Healthy,38,Standard,2024-01-01,3.8,13
+1251,Spice Corner,Biryani,38,Standard,2024-01-01,4.5,16
+1252,Bombay Dhaba,Chinese,38,Standard,2024-01-01,3.7,19
+1253,Spice Corner,Chinese,38,Standard,2024-01-01,4.5,13
+1254,Paradise Express,Healthy,38,Standard,2024-01-01,3.6,18
+1255,Dakshin Bistro,Chinese,38,Standard,2024-01-01,4.1,12
+1256,Punjab Dhaba,Desserts,39,Standard,2024-01-01,3.8,19
+1257,Punjab Express,Desserts,39,Standard,2024-01-01,4.5,11
+1258,Urban Kitchen,Biryani,39,Standard,2024-01-01,4.2,15
+1259,Little Kitchen,Healthy,39,Standard,2024-01-01,3.7,18
+1260,Royal Point,Chinese,39,Standard,2024-01-01,4.2,11
+1261,Chef's Corner,Healthy,39,Standard,2024-01-01,3.7,16
+1262,Urban Treats,Desserts,39,Standard,2024-01-01,4.0,17
+1263,Royal Treats,Burgers,39,Standard,2024-01-01,4.7,12
+1264,Golden Junction,Chinese,39,Standard,2024-01-01,4.5,19
+1265,Green House,Biryani,39,Standard,2024-01-01,4.6,19
+1266,Desi Dhaba,North Indian,39,Standard,2024-01-01,3.9,18
+1267,Golden Dhaba,Chinese,39,Standard,2024-01-01,4.7,13
+1268,Golden Express,Chinese,39,Standard,2024-01-01,4.4,13
+1269,Spice House,Burgers,39,Standard,2024-01-01,4.6,17
+1270,Paradise Junction,Burgers,39,Standard,2024-01-01,4.5,14
+1271,Golden Cafe,South Indian,39,Standard,2024-01-01,3.8,16
+1272,Madras House,Biryani,39,Standard,2024-01-01,4.3,19
+1273,Chef's Point,Burgers,39,Standard,2024-01-01,4.0,19
+1274,Madras Point,Healthy,39,Standard,2024-01-01,3.8,12
+1275,Chef's Treats,South Indian,39,Standard,2024-01-01,4.1,15
+1276,Madras Junction,Biryani,39,Standard,2024-01-01,4.0,19
+1277,Tandoor Treats,Burgers,39,Standard,2024-01-01,4.1,15
+1278,Paradise House,North Indian,39,Standard,2024-01-01,4.2,11
+1279,Green Junction,North Indian,39,Standard,2024-01-01,3.6,16
+1280,Madras Grill,Chinese,39,Standard,2024-01-01,4.0,19
+1281,Desi Dhaba,Pizza,39,Standard,2024-01-01,4.5,14
+1282,Chef's Express,Pizza,39,Standard,2024-01-01,4.2,18
+1283,Green Bistro,Biryani,39,Standard,2024-01-01,3.6,14
+1284,Punjab Bowl,Burgers,39,Standard,2024-01-01,3.7,11
+1285,Bombay Corner,Desserts,39,Standard,2024-01-01,4.3,16
+1286,Tandoor Express,Desserts,39,Standard,2024-01-01,4.2,15
+1287,Little Kitchen,North Indian,39,Standard,2024-01-01,4.3,17
+1288,Little Point,Chinese,39,Standard,2024-01-01,3.7,16
+1289,Spice Cafe,South Indian,39,Standard,2024-01-01,3.9,18
+1290,Chef's Junction,Desserts,39,Standard,2024-01-01,4.2,11
+1291,Desi Bistro,Burgers,40,Standard,2024-01-01,4.4,16
+1292,Madras Dhaba,Desserts,40,Standard,2024-01-01,3.7,16
+1293,Tandoor Treats,Chinese,40,Standard,2024-01-01,3.7,18
+1294,Royal House,Pizza,40,Standard,2024-01-01,4.7,12
+1295,Tandoor Junction,South Indian,40,Standard,2024-01-01,4.1,19
+1296,Chef's Point,Pizza,40,Standard,2024-01-01,3.8,12
+1297,Punjab Treats,Healthy,40,Standard,2024-01-01,3.7,12
+1298,Royal Treats,Healthy,40,Standard,2024-01-01,3.9,19
+1299,Paradise Grill,Biryani,40,Standard,2024-01-01,4.1,14
+1300,Royal Express,Burgers,40,Standard,2024-01-01,4.5,16
+1301,Tandoor Cafe,Burgers,40,Standard,2024-01-01,4.0,15
+1302,Paradise Grill,North Indian,40,Standard,2024-01-01,3.8,13
+1303,Bombay Bowl,South Indian,40,Standard,2024-01-01,4.5,14
+1304,Punjab Point,Chinese,40,Standard,2024-01-01,4.4,13
+1305,Dakshin Point,Biryani,40,Standard,2024-01-01,3.7,19
+1306,Dakshin Dhaba,North Indian,40,Standard,2024-01-01,3.7,14
+1307,Urban Dhaba,Biryani,40,Standard,2024-01-01,3.9,18
+1308,Urban Junction,Healthy,40,Standard,2024-01-01,4.6,12
+1309,Little Express,Chinese,40,Standard,2024-01-01,3.8,15
+1310,Hungry Junction,Chinese,40,Standard,2024-01-01,3.9,16
+1311,Paradise Junction,South Indian,40,Standard,2024-01-01,4.6,11
+1312,Chef's Express,Pizza,40,Standard,2024-01-01,4.6,14
+1313,Punjab Point,Healthy,40,Standard,2024-01-01,3.6,17
+1314,Dakshin Kitchen,Desserts,40,Standard,2024-01-01,3.9,16
+1315,Chef's Dhaba,Desserts,40,Standard,2024-01-01,4.1,15
+1316,Bombay Treats,Chinese,40,Standard,2024-01-01,4.5,11
+1317,Urban Grill,Desserts,40,Standard,2024-01-01,3.7,12
+1318,Dakshin Point,Healthy,40,Standard,2024-01-01,4.3,16
+1319,Spice Point,South Indian,40,Standard,2024-01-01,4.3,17
+1320,Paradise Grill,Pizza,40,Standard,2024-01-01,4.3,11
+1321,Hungry Corner,South Indian,40,Standard,2024-01-01,3.6,18
+1322,Paradise Junction,Chinese,40,Standard,2024-01-01,4.1,16
+1323,Desi Kitchen,Burgers,40,Standard,2024-01-01,4.0,12
+1324,Little Corner,North Indian,40,Standard,2024-01-01,4.2,16
+1325,Little Corner,South Indian,40,Standard,2024-01-01,4.3,14
+1326,Green Bowl,Biryani,40,Standard,2024-01-01,4.0,16
+1327,CK Hub Burgers #1,Burgers,23,Cloud Kitchens Hub,2026-09-01,4.0,16
+1328,CK Hub Pizza #2,Pizza,23,Cloud Kitchens Hub,2026-09-01,3.7,14
+1329,CK Hub Burgers #3,Burgers,23,Cloud Kitchens Hub,2026-09-01,3.8,13
+1330,CK Hub Healthy #4,Healthy,23,Cloud Kitchens Hub,2026-09-01,4.0,18
+1331,CK Hub Burgers #5,Burgers,23,Cloud Kitchens Hub,2026-09-01,4.2,17
+1332,CK Hub Healthy #6,Healthy,23,Cloud Kitchens Hub,2026-09-01,4.0,18
+1333,CK Hub Chinese #7,Chinese,23,Cloud Kitchens Hub,2026-09-01,3.6,15
+1334,CK Hub Pizza #8,Pizza,23,Cloud Kitchens Hub,2026-09-01,4.0,17
+1335,CK Hub Burgers #9,Burgers,23,Cloud Kitchens Hub,2026-09-01,3.5,12
+1336,CK Hub Healthy #10,Healthy,23,Cloud Kitchens Hub,2026-09-01,3.9,15
+1337,CK Hub South Indian #11,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.6,18
+1338,CK Hub North Indian #12,North Indian,23,Cloud Kitchens Hub,2026-09-01,4.2,15
+1339,CK Hub Biryani #13,Biryani,23,Cloud Kitchens Hub,2026-09-01,3.8,18
+1340,CK Hub Biryani #14,Biryani,23,Cloud Kitchens Hub,2026-09-01,3.6,13
+1341,CK Hub Burgers #15,Burgers,23,Cloud Kitchens Hub,2026-09-01,3.5,18
+1342,CK Hub South Indian #16,South Indian,23,Cloud Kitchens Hub,2026-09-01,4.0,17
+1343,CK Hub Biryani #17,Biryani,23,Cloud Kitchens Hub,2026-09-01,3.8,14
+1344,CK Hub South Indian #18,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.6,15
+1345,CK Hub Burgers #19,Burgers,23,Cloud Kitchens Hub,2026-09-01,4.0,17
+1346,CK Hub North Indian #20,North Indian,23,Cloud Kitchens Hub,2026-09-01,3.5,17
+1347,CK Hub Pizza #21,Pizza,23,Cloud Kitchens Hub,2026-09-01,3.9,14
+1348,CK Hub Biryani #22,Biryani,23,Cloud Kitchens Hub,2026-09-01,3.4,18
+1349,CK Hub Pizza #23,Pizza,23,Cloud Kitchens Hub,2026-09-01,3.7,15
+1350,CK Hub Desserts #24,Desserts,23,Cloud Kitchens Hub,2026-09-01,3.8,14
+1351,CK Hub North Indian #25,North Indian,23,Cloud Kitchens Hub,2026-09-01,3.6,16
+1352,CK Hub North Indian #26,North Indian,23,Cloud Kitchens Hub,2026-09-01,3.7,16
+1353,CK Hub South Indian #27,South Indian,23,Cloud Kitchens Hub,2026-09-01,4.1,12
+1354,CK Hub Chinese #28,Chinese,23,Cloud Kitchens Hub,2026-09-01,3.6,15
+1355,CK Hub Pizza #29,Pizza,23,Cloud Kitchens Hub,2026-09-01,3.6,13
+1356,CK Hub Desserts #30,Desserts,23,Cloud Kitchens Hub,2026-09-01,3.8,15
+1357,CK Hub Chinese #31,Chinese,23,Cloud Kitchens Hub,2026-09-01,3.9,17
+1358,CK Hub South Indian #32,South Indian,23,Cloud Kitchens Hub,2026-09-01,4.1,17
+1359,CK Hub Biryani #33,Biryani,23,Cloud Kitchens Hub,2026-09-01,3.5,12
+1360,CK Hub South Indian #34,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.9,16
+1361,CK Hub Biryani #35,Biryani,23,Cloud Kitchens Hub,2026-09-01,3.9,15
+1362,CK Hub North Indian #36,North Indian,23,Cloud Kitchens Hub,2026-09-01,3.8,12
+1363,CK Hub South Indian #37,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.9,14
+1364,CK Hub Pizza #38,Pizza,23,Cloud Kitchens Hub,2026-09-01,3.7,16
+1365,CK Hub North Indian #39,North Indian,23,Cloud Kitchens Hub,2026-09-01,3.6,13
+1366,CK Hub Desserts #40,Desserts,23,Cloud Kitchens Hub,2026-09-01,3.6,15
+1367,CK Hub Pizza #41,Pizza,23,Cloud Kitchens Hub,2026-09-01,4.2,18
+1368,CK Hub Biryani #42,Biryani,23,Cloud Kitchens Hub,2026-09-01,3.9,16
+1369,CK Hub South Indian #43,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.6,15
+1370,CK Hub Healthy #44,Healthy,23,Cloud Kitchens Hub,2026-09-01,3.5,13
+1371,CK Hub South Indian #45,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.6,17
+1372,CK Hub Biryani #46,Biryani,23,Cloud Kitchens Hub,2026-09-01,4.2,12
+1373,CK Hub South Indian #47,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.6,13
+1374,CK Hub Pizza #48,Pizza,23,Cloud Kitchens Hub,2026-09-01,3.7,13
+1375,CK Hub Burgers #49,Burgers,23,Cloud Kitchens Hub,2026-09-01,3.5,15
+1376,CK Hub Biryani #50,Biryani,23,Cloud Kitchens Hub,2026-09-01,3.8,13
+1377,CK Hub Desserts #51,Desserts,23,Cloud Kitchens Hub,2026-09-01,4.1,12
+1378,CK Hub Healthy #52,Healthy,23,Cloud Kitchens Hub,2026-09-01,4.0,15
+1379,CK Hub Burgers #53,Burgers,23,Cloud Kitchens Hub,2026-09-01,4.1,13
+1380,CK Hub Burgers #54,Burgers,23,Cloud Kitchens Hub,2026-09-01,3.6,15
+1381,CK Hub South Indian #55,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.5,18
+1382,CK Hub Pizza #56,Pizza,23,Cloud Kitchens Hub,2026-09-01,3.8,17
+1383,CK Hub South Indian #57,South Indian,23,Cloud Kitchens Hub,2026-09-01,3.5,15
+1384,CK Hub Chinese #58,Chinese,23,Cloud Kitchens Hub,2026-09-01,3.5,18
+1385,CK Hub Biryani #59,Biryani,23,Cloud Kitchens Hub,2026-09-01,4.1,13
+1386,CK Hub Healthy #60,Healthy,23,Cloud Kitchens Hub,2026-09-01,4.0,14

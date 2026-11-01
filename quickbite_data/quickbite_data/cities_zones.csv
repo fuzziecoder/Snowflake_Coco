@@ -1,0 +1,41 @@
+ZONE_ID,CITY,ZONE_NAME,LATITUDE,LONGITUDE
+1,Bengaluru,Whitefield-East,12.8786,77.5906
+2,Bengaluru,Whitefield-West,13.0564,77.4946
+3,Bengaluru,Koramangala,12.9942,77.6036
+4,Bengaluru,Indiranagar,12.9815,77.6453
+5,Bengaluru,HSR Layout,13.0302,77.6108
+6,Bengaluru,Jayanagar,12.9974,77.4966
+7,Bengaluru,Hebbal,12.9579,77.6655
+8,Bengaluru,Electronic City,13.0131,77.5205
+9,Mumbai,Andheri,19.1852,72.983
+10,Mumbai,Bandra,19.1899,72.8833
+11,Mumbai,Powai,19.0317,72.8938
+12,Mumbai,Lower Parel,19.0598,72.9704
+13,Mumbai,Thane,19.0886,72.7659
+14,Mumbai,Malad,19.0373,72.8613
+15,Mumbai,Colaba,19.0906,72.8796
+16,Delhi NCR,Connaught Place,28.6115,77.27
+17,Delhi NCR,Saket,28.6078,77.31
+18,Delhi NCR,Dwarka,28.5908,77.3123
+19,Delhi NCR,Gurugram Cyber City,28.6143,77.0961
+20,Delhi NCR,Noida Sec 18,28.521,77.1017
+21,Delhi NCR,Rohini,28.7028,77.1146
+22,Delhi NCR,Lajpat Nagar,28.6028,77.2057
+23,Hyderabad,HITEC City,17.4826,78.5204
+24,Hyderabad,Gachibowli,17.3827,78.5931
+25,Hyderabad,Banjara Hills,17.401,78.5044
+26,Hyderabad,Kondapur,17.3438,78.562
+27,Hyderabad,Secunderabad,17.3849,78.5823
+28,Hyderabad,Madhapur,17.3406,78.4346
+29,Pune,Hinjewadi,18.5574,73.8833
+30,Pune,Koregaon Park,18.5255,73.8575
+31,Pune,Kothrud,18.4624,73.8565
+32,Pune,Viman Nagar,18.5983,73.9339
+33,Pune,Baner,18.6177,73.9395
+34,Pune,Hadapsar,18.62,73.7636
+35,Chennai,T Nagar,13.1484,80.2736
+36,Chennai,Adyar,13.1917,80.3821
+37,Chennai,Velachery,13.075,80.1654
+38,Chennai,OMR,13.0796,80.1732
+39,Chennai,Anna Nagar,13.0587,80.2579
+40,Chennai,Porur,12.9601,80.2894
